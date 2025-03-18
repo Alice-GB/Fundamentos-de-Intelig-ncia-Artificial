@@ -1,0 +1,10 @@
+E:\Trabalhos da faculdade\Fundamentos da IA\Prova1.1\obj\Debug\Prova1.1.csproj.AssemblyReference.cache
+E:\Trabalhos da faculdade\Fundamentos da IA\Prova1.1\obj\Debug\Prova1._1.Form1.resources
+E:\Trabalhos da faculdade\Fundamentos da IA\Prova1.1\obj\Debug\Prova1._1.Properties.Resources.resources
+E:\Trabalhos da faculdade\Fundamentos da IA\Prova1.1\obj\Debug\Prova1.1.csproj.GenerateResource.cache
+E:\Trabalhos da faculdade\Fundamentos da IA\Prova1.1\obj\Debug\Prova1.1.csproj.CoreCompileInputs.cache
+E:\Trabalhos da faculdade\Fundamentos da IA\Prova1.1\bin\Debug\Prova1.1.exe.config
+E:\Trabalhos da faculdade\Fundamentos da IA\Prova1.1\bin\Debug\Prova1.1.exe
+E:\Trabalhos da faculdade\Fundamentos da IA\Prova1.1\bin\Debug\Prova1.1.pdb
+E:\Trabalhos da faculdade\Fundamentos da IA\Prova1.1\obj\Debug\Prova1.1.exe
+E:\Trabalhos da faculdade\Fundamentos da IA\Prova1.1\obj\Debug\Prova1.1.pdb

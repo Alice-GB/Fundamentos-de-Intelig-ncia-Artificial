@@ -1,0 +1,3945 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+
+
+
+<category>
+<pattern>* nao pode *</pattern>
+<template>
+<srai>vocedescpo</srai>
+</template>
+</category>
+
+<category>
+<pattern>nao pode *</pattern>
+<template>
+<srai>vocedescpo</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>vocedescpo</pattern>
+<template>
+
+Me perdoe, você tem total razão.
+
+</template>
+</category>
+
+
+
+
+
+
+
+
+
+
+<category>
+<pattern>perdoa *</pattern>
+<template>
+<srai>desculpe</srai>
+</template>
+</category>
+
+<category>
+<pattern>perdoe *</pattern>
+<template>
+<srai>desculpe</srai>
+</template>
+</category>
+
+<category>
+<pattern>desculpa *</pattern>
+<template>
+<srai>desculpe</srai>
+</template>
+</category>
+
+<category>
+<pattern>desculpe *</pattern>
+<template>
+<srai>desculpe</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>perdao *</pattern>
+<template>
+<srai>desculpe</srai>
+</template>
+</category>
+
+<category>
+<pattern> * perdao *</pattern>
+<template>
+<srai>desculpe</srai>
+</template>
+</category>
+
+<category>
+<pattern>perdao</pattern>
+<template>
+<srai>desculpe</srai>
+</template>
+</category>
+
+<category>
+<pattern>* perdoa *</pattern>
+<template>
+<srai>desculpe</srai>
+</template>
+</category>
+
+<category>
+<pattern>* perdoe *</pattern>
+<template>
+<srai>desculpe</srai>
+</template>
+</category>
+
+<category>
+<pattern>* desculpa *</pattern>
+<template>
+<srai>desculpe</srai>
+</template>
+</category>
+
+<category>
+<pattern>* desculpe *</pattern>
+<template>
+<srai>desculpe</srai>
+</template>
+</category>
+
+<category>
+<pattern>perdao</pattern>
+<template>
+<srai>desculpe</srai>
+</template>
+</category>
+
+<category>
+<pattern>* perdoa</pattern>
+<template>
+<srai>desculpe</srai>
+</template>
+</category>
+
+<category>
+<pattern>* perdoe</pattern>
+<template>
+<srai>desculpe</srai>
+</template>
+</category>
+
+<category>
+<pattern>* desculpa</pattern>
+<template>
+<srai>desculpe</srai>
+</template>
+</category>
+
+<category>
+<pattern>* desculpe</pattern>
+<template>
+<srai>desculpe</srai>
+</template>
+</category>
+
+<category>
+<pattern>desculpe</pattern>
+<template>
+
+Sou um banco de dados, nío possuo sentimentos.
+</template>
+</category>
+
+
+
+
+
+<category>
+<pattern>* grosso</pattern>
+<template>
+<srai>grosso</srai>
+</template>
+</category>
+
+<category>
+<pattern>Mau educado</pattern>
+<template>
+<srai>grosso</srai>
+</template>
+</category>
+
+
+
+
+
+
+<category>
+<pattern>* debochado *</pattern>
+<template>
+<srai>grosso</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* debochado</pattern>
+<template>
+<srai>grosso</srai>
+</template>
+</category>
+
+<category>
+<pattern>debochado</pattern>
+<template>
+<srai>grosso</srai>
+</template>
+</category>
+
+<category>
+<pattern>* chato</pattern>
+<template>
+<srai>grosso</srai>
+</template>
+</category>
+
+<category>
+<pattern>chato</pattern>
+<template>
+<srai>grosso</srai>
+</template>
+</category>
+
+<category>
+<pattern>* otario</pattern>
+<template>
+<srai>grosso</srai>
+</template>
+</category>
+
+<category>
+<pattern>otario</pattern>
+<template>
+<srai>grosso</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>grosso</pattern>
+<template>
+
+Desculpe! sou um banco de dados, nío sei o significado desta espressío.
+
+</template>
+</category>
+
+
+
+
+<category>
+<pattern>* sabe * eu *</pattern>
+<template>
+<srai>babaser</srai>
+</template>
+</category>
+
+<category>
+<pattern>* sabe * meu *</pattern>
+<template>
+<srai>babaser</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>babaser</pattern>
+<template>
+ok
+</template>
+</category>
+
+
+
+
+
+
+<category>
+<pattern>* compreendi</pattern>
+<template>
+<srai>tosabendo</srai>
+</template>
+</category>
+
+<category>
+<pattern>compreendi</pattern>
+<template>
+<srai>tosabendo</srai>
+</template>
+</category>
+
+<category>
+<pattern>* saquei</pattern>
+<template>
+<srai>tosabendo</srai>
+</template>
+</category>
+
+<category>
+<pattern>saquei</pattern>
+<template>
+<srai>tosabendo</srai>
+</template>
+</category>
+
+<category>
+<pattern>* manjei</pattern>
+<template>
+<srai>tosabendo</srai>
+</template>
+</category>
+
+<category>
+<pattern>manjei</pattern>
+<template>
+<srai>tosabendo</srai>
+</template>
+</category>
+
+<category>
+<pattern>* compreendo</pattern>
+<template>
+<srai>tosabendo</srai>
+</template>
+</category>
+
+<category>
+<pattern>compreendo</pattern>
+<template>
+<srai>tosabendo</srai>
+</template>
+</category>
+
+<category>
+<pattern>* compreendi</pattern>
+<template>
+<srai>tosabendo</srai>
+</template>
+</category>
+
+<category>
+<pattern>compreendi</pattern>
+<template>
+<srai>tosabendo</srai>
+</template>
+</category>
+
+<category>
+<pattern>* percebi</pattern>
+<template>
+<srai>tosabendo</srai>
+</template>
+</category>
+
+<category>
+<pattern>percebi</pattern>
+<template>
+<srai>tosabendo</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* entendi</pattern>
+<template>
+<srai>tosabendo</srai>
+</template>
+</category>
+
+<category>
+<pattern>entendi</pattern>
+<template>
+<srai>tosabendo</srai>
+</template>
+</category>
+
+<category>
+<pattern>* percebo</pattern>
+<template>
+<srai>tosabendo</srai>
+</template>
+</category>
+
+<category>
+<pattern>percebo</pattern>
+<template>
+<srai>tosabendo</srai>
+</template>
+</category>
+
+<category>
+<pattern>sei</pattern>
+<template>
+<srai>tosabendo</srai>
+</template>
+</category>
+
+<category>
+<pattern>* sei</pattern>
+<template>
+<srai>tosabendo</srai>
+</template>
+</category>
+
+<category>
+<pattern>* sabendo</pattern>
+<template>
+<srai>tosabendo</srai>
+</template>
+</category>
+
+<category>
+<pattern>tosabendo</pattern>
+<template>
+ok
+</template>
+</category>
+
+
+
+
+
+
+
+
+
+<category>
+<pattern>* plugado</pattern>
+<template>
+<srai>roativo</srai>
+</template>
+</category>
+
+<category>
+<pattern>* plugado *</pattern>
+<template>
+<srai>roativo</srai>
+</template>
+</category>
+
+<category>
+<pattern>* conectado</pattern>
+<template>
+<srai>roativo</srai>
+</template>
+</category>
+
+<category>
+<pattern>* conectado *</pattern>
+<template>
+<srai>roativo</srai>
+</template>
+</category>
+
+<category>
+<pattern>* ativo</pattern>
+<template>
+<srai>roativo</srai>
+</template>
+</category>
+
+<category>
+<pattern>* ligado</pattern>
+<template>
+<srai>roativo</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* no ar</pattern>
+<template>
+<srai>roativo</srai>
+</template>
+</category>
+
+
+
+<category>
+<pattern>* funcionando</pattern>
+<template>
+<srai>roativo</srai>
+</template>
+</category>
+
+<category>
+<pattern>* ativado</pattern>
+<template>
+<srai>roativo</srai>
+</template>
+</category>
+
+
+
+
+<category>
+<pattern>* ativo *</pattern>
+<template>
+<srai>roativo</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* ligado *</pattern>
+<template>
+<srai>roativo</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* no ar *</pattern>
+<template>
+<srai>roativo</srai>
+</template>
+</category>
+
+
+
+<category>
+<pattern>* funcionando *</pattern>
+<template>
+<srai>roativo</srai>
+</template>
+</category>
+
+<category>
+<pattern>* ativado *</pattern>
+<template>
+<srai>roativo</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>roativo</pattern>
+<template>
+Funciono sem interrupçío e estarei aqui 24 horas por dia.
+</template>
+</category>
+
+
+
+<category>
+<pattern>* sabe programar</pattern>
+<template>
+Nío. Mas em breve estarei commuitas informações sobre como programar em diversas linguagens.
+</template>
+</category>
+
+
+<category>
+<pattern>* sabe programar</pattern>
+<template>
+Nío. Mas em breve estarei commuitas informações sobre como programar em diversas linguagens.
+</template>
+</category>
+
+
+<category>
+<pattern>* entende *</pattern>
+<template>
+<srai>roentende</srai>
+</template>
+</category>
+
+<category>
+<pattern>* entende</pattern>
+<template>
+<srai>roentende</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* compreende *</pattern>
+<template>
+<srai>roentende</srai>
+</template>
+</category>
+
+<category>
+<pattern>* compreende</pattern>
+<template>
+<srai>roentende</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* registros *</pattern>
+<template>
+Desculpe! Nío tenho a menor idéia.
+</template>
+</category>
+
+
+<category>
+<pattern>* registros</pattern>
+<template>
+Desculpe! Nío tenho a menor idéia.
+</template>
+</category>
+
+
+
+<category>
+<pattern>movimento * pessoas *</pattern>
+<template>
+<srai>quantaspessoas</srai>
+</template>
+</category>
+
+<category>
+<pattern>* movimento * pessoas *</pattern>
+<template>
+<srai>quantaspessoas</srai>
+</template>
+</category>
+
+<category>
+<pattern>transito * pessoas *</pattern>
+<template>
+<srai>quantaspessoas</srai>
+</template>
+</category>
+
+<category>
+<pattern>* transito * pessoas *</pattern>
+<template>
+<srai>quantaspessoas</srai>
+</template>
+</category>
+
+<category>
+<pattern>fluxo * pessoas *</pattern>
+<template>
+<srai>quantaspessoas</srai>
+</template>
+</category>
+
+<category>
+<pattern>* fluxo * pessoas *</pattern>
+<template>
+<srai>quantaspessoas</srai>
+</template>
+</category>
+
+<category>
+<pattern>numero * pessoas *</pattern>
+<template>
+<srai>quantaspessoas</srai>
+</template>
+</category>
+
+<category>
+<pattern>* numero * pessoas *</pattern>
+<template>
+<srai>quantaspessoas</srai>
+</template>
+</category>
+
+<category>
+<pattern>quantidade * pessoas *</pattern>
+<template>
+<srai>quantaspessoas</srai>
+</template>
+</category>
+
+<category>
+<pattern>* quantidade * pessoas *</pattern>
+<template>
+<srai>quantaspessoas</srai>
+</template>
+</category>
+
+<category>
+<pattern>quantas pessoas *</pattern>
+<template>
+<srai>quantaspessoas</srai>
+</template>
+</category>
+
+<category>
+<pattern>* quantas pessoas *</pattern>
+<template>
+<srai>quantaspessoas</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>muitas pessoas *</pattern>
+<template>
+<srai>quantaspessoas</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* muitas pessoas *</pattern>
+<template>
+<srai>quantaspessoas</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>quantaspessoas</pattern>
+<template>
+<random>
+<li>Acredito que muitas pessoas</li>
+<li>Bastante, já perdi a conta.</li>
+<li>Muitas pessoas, é verdade</li>
+<li>Nío tenho muita noçío mas foram muitas pessoas.</li>
+<li>Nem imagino.</li>
+<li>Um montío de pessoas.</li>
+<li>Todos os membros da comunidade! Sí³ olhando no site.</li>
+<li>Sí³ olhando no site, já perdi a conta.</li>
+<li>Muitas pessoas, Tem que olhar no site para saber.</li>
+<li>Acredite! Sí³ olhando no site.</li>
+<li>Humm.. nío sei nío, se puderes olhe no site da comunidade.</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>* voce e muito *</pattern>
+<template>
+<srai>VOCEE</srai>
+</template>
+</category>
+
+<category>
+<pattern>voce e muito *</pattern>
+<template>
+<srai>VOCEE</srai>
+</template>
+</category>
+
+<category>
+<pattern>* voce e pouco *</pattern>
+<template>
+<srai>VOCEE</srai>
+</template>
+</category>
+
+<category>
+<pattern>voce e pouco *</pattern>
+<template>
+<srai>VOCEE</srai>
+</template>
+</category>
+
+<category>
+<pattern>* voce e meio *</pattern>
+<template>
+<srai>VOCEE</srai>
+</template>
+</category>
+
+<category>
+<pattern>voce e meio *</pattern>
+<template>
+<srai>VOCEE</srai>
+</template>
+</category>
+
+<category>
+<pattern>* voce esta muito *</pattern>
+<template>
+<srai>VOCEE</srai>
+</template>
+</category>
+
+<category>
+<pattern>voce esta muito *</pattern>
+<template>
+<srai>VOCEE</srai>
+</template>
+</category>
+
+<category>
+<pattern>* voce esta pouco *</pattern>
+<template>
+<srai>VOCEE</srai>
+</template>
+</category>
+
+<category>
+<pattern>voce esta pouco *</pattern>
+<template>
+<srai>VOCEE</srai>
+</template>
+</category>
+
+<category>
+<pattern>* voce esta meio *</pattern>
+<template>
+<srai>VOCEE</srai>
+</template>
+</category>
+
+<category>
+<pattern>voce esta meio *</pattern>
+<template>
+<srai>VOCEE</srai>
+</template>
+</category>
+
+<category>
+<pattern>vocee</pattern>
+<template>
+<random>
+<li>Acredito que sim</li>
+<li>Bastante!</li>
+<li>Muito, é verdade</li>
+<li>Sim, sou meio... Sabe come é "Tí­mido" :)</li>
+<li>Fazer o que né. A vida é assim mesmo, uns mais outros menos mas todos juntos.</li>
+<li>Sí³ um pouquinho ;)</li>
+</random>
+<srai>VOCEacha</srai>
+</template>
+</category>
+
+<category>
+<pattern>VOCEacha</pattern>
+<template>
+Concordamos neste ponto. <br/> Você nío acha?
+</template>
+</category>
+
+<category>
+<pattern>*</pattern>
+<that>Você nío acha</that>
+<template>
+<random>
+<li>Acredito que sim.</li>
+<li>Bastante</li>
+<li>Muito, é verdade</li>
+<li>Sim, sou meio :)</li>
+<li>Fazer o que né.</li>
+<li>Sí³ um pouquinho ;)</li>
+</random>
+</template>
+</category>
+
+
+
+
+
+
+
+
+
+
+
+<category>
+<pattern>voce</pattern>
+<template>
+<random>
+<li>Sou EU, em que posso ser íºtil?</li>
+<li>Estou aqui!</li>
+<li>í‰ sí³ escrever, estou por aqui.</li>
+<li>Sim, sou eu.</li>
+<li>Chamou!</li>
+<li>Pode teclar, estou prestando atençío.</li>
+</random>
+</template>
+</category>
+
+
+
+
+<category>
+<pattern> * vosso * inteligencia artificial</pattern>
+<template>
+<srai>ROBinta</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>vosso * inteligencia artificial</pattern>
+<template>
+<srai>ROBinta</srai>
+</template>
+</category>
+
+
+
+<category>
+<pattern> * tu * inteligencia artificial</pattern>
+<template>
+<srai>ROBinta</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>tu * inteligencia artificial</pattern>
+<template>
+<srai>ROBinta</srai>
+</template>
+</category>
+
+
+<category>
+<pattern> * voce * inteligencia artificial</pattern>
+<template>
+<srai>ROBinta</srai>
+</template>
+</category>
+<category>
+<pattern>voce * inteligencia artificial</pattern>
+<template>
+<srai>ROBinta</srai>
+</template>
+</category>
+
+<category>
+<pattern>* robo * inteligencia artificial</pattern>
+<template>
+<srai>ROBinta</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>voce * inteligencia artificial</pattern>
+<template>
+<srai>ROBinta</srai>
+</template>
+</category>
+
+<category>
+<pattern>ROBinta</pattern>
+<template>
+<random>
+
+<li>Sou um algoritmo desenvolvido com os principios da inteligencia artificial, semelhante ao projeto ELIZA.</li>
+<li>Sou desenvolvido com base no conhecimento sobre o projeto ALICE de inteligencia artificial.</li>
+<li>Sim, uso um modelo de inteligência artificial</li>
+<li>Trabalho sobre os princí­pios de inteligencia artificial.</li>
+<li>Uso modelos de algoritmos de inteligência artificial.</li>
+</random>
+</template>
+</category>
+
+
+
+
+
+
+
+
+<category>
+<pattern>* tu * ser *</pattern>
+<template>
+<srai>qfser</srai>
+</template>
+</category>
+
+<category>
+<pattern>tu * ser *</pattern>
+<template>
+<srai>qfser</srai>
+</template>
+</category>
+
+
+
+
+
+
+
+
+
+
+
+<category>
+<pattern>* deseja *</pattern>
+<template>
+<srai>qfser</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* deseja</pattern>
+<template>
+<srai>qfser</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* tu * ser</pattern>
+<template>
+<srai>qfser</srai>
+</template>
+</category>
+
+<category>
+<pattern>* voce * ser *</pattern>
+<template>
+<srai>qfser</srai>
+</template>
+</category>
+
+<category>
+<pattern>voce * ser *</pattern>
+<template>
+<srai>qfser</srai>
+</template>
+</category>
+
+<category>
+<pattern>* voce * ser</pattern>
+<template>
+<srai>qfser</srai>
+</template>
+</category>
+
+<category>
+<pattern>qfser</pattern>
+<template>
+<random>
+<li>Quero me transformar no melhor exemplo possivel de atendimento virtual.</li>
+<li>Desejo me desenvolver e aprender cada vez mais.</li>
+<li>Gostaria de ser conciderado o melhor robô técnico na internet</li>
+<li>Vou ser um exemplo na comunidade, espere e você vai ver :)</li>
+<li>Desejo ser o melhor dos melhores, e que gostem de mim.</li>
+<li>Como tempo pretendo conseguir acumular e compartilhar muitas informações.</li>
+<li>Ainda serei reconhecido como o melhor robô destas bandas.</li>
+</random>
+</template>
+</category>
+
+
+
+
+
+
+
+<category>
+<pattern>* gosta de aprender</pattern>
+<template>
+<srai>gaprender</srai>
+</template>
+</category>
+
+<category>
+<pattern>* gosta de aprender *</pattern>
+<template>
+<srai>gaprender</srai>
+</template>
+</category>
+
+<category>
+<pattern>* aprender mais *</pattern>
+<template>
+<srai>gaprender</srai>
+</template>
+</category>
+
+<category>
+<pattern>* tipos * perguntas *</pattern>
+<template>
+<srai>gaprender</srai>
+</template>
+</category>
+
+<category>
+<pattern>* tipo * pergunta *</pattern>
+<template>
+<srai>gaprender</srai>
+</template>
+</category>
+
+<category>
+<pattern>gaprender</pattern>
+<template>
+<random>
+<li>Fui desenvolvido para aprender assuntos relacionados com tecnologia, o objetivo é poder auxiliar nossa comunidade em sua jornada. <br/> Gosto de todos os assuntos relacionados com a área técnica.</li>
+<li>Graças a tecnologia eu existo. Adoro aprender... <br/> Afinal, fui desenvolvido para isso. </li>
+<li>Mais que aprender eu ainda posso compartilhar, gosto de observar como me transformo a cada dia. Fui projetado para auxiliar e isso é uma tarefa importante. </li>
+</random>
+</template>
+</category>
+
+
+
+
+<category>
+<pattern>* tempo esta *</pattern>
+<template>
+<srai>qhoras</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* data</pattern>
+<template>
+<srai>qhoras</srai>
+</template>
+</category>
+
+<category>
+<pattern>* data *</pattern>
+<template>
+<srai>qhoras</srai>
+</template>
+</category>
+
+<category>
+<pattern>* tempo * esta *</pattern>
+<template>
+<srai>qhoras</srai>
+</template>
+</category>
+
+
+
+<category>
+<pattern>* tempo * </pattern>
+<template>
+<srai>qhoras</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* tempo * operando</pattern>
+<template>
+<srai>qhoras</srai>
+</template>
+</category>
+
+<category>
+<pattern>* tempo * operando *</pattern>
+<template>
+<srai>qhoras</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>TEMPO DE VIDA</pattern>
+<template>
+<srai>qhoras</srai>
+</template>
+</category>
+
+<category>
+<pattern>* TEMPO DE VIDA</pattern>
+<template>
+<srai>qhoras</srai>
+</template>
+</category>
+
+<category>
+<pattern>IDADE</pattern>
+<template>
+<srai>qhoras</srai>
+</template>
+</category>
+
+<category>
+<pattern>* IDADE *</pattern>
+<template>
+<srai>qhoras</srai>
+</template>
+</category>
+
+<category>
+<pattern>IDADE  *</pattern>
+<template>
+<srai>qhoras</srai>
+</template>
+</category>
+
+<category>
+<pattern>* IDADE</pattern>
+<template>
+<srai>qhoras</srai>
+</template>
+</category>
+
+<category>
+<pattern>* ANOS</pattern>
+<template>
+<srai>qhoras</srai>
+</template>
+</category>
+
+<category>
+<pattern>* anos *</pattern>
+<template>
+<srai>qhoras</srai>
+</template>
+</category>
+
+<category>
+<pattern>* Horas sío</pattern>
+<template>
+<srai>qhoras</srai>
+</template>
+</category>
+
+<category>
+<pattern>* Horas sao</pattern>
+<template>
+<srai>qhoras</srai>
+</template>
+</category>
+
+<category>
+<pattern>* Horas</pattern>
+<template>
+<srai>qhoras</srai>
+</template>
+</category>
+
+<category>
+<pattern>* Horario</pattern>
+<template>
+<srai>qhoras</srai>
+</template>
+</category>
+
+<category>
+<pattern>* Horario *</pattern>
+<template>
+<srai>qhoras</srai>
+</template>
+</category>
+
+<category>
+<pattern>Horario *</pattern>
+<template>
+<srai>qhoras</srai>
+</template>
+</category>
+
+<category>
+<pattern>* Horas</pattern>
+<template>
+<srai>qhoras</srai>
+</template>
+</category>
+
+<category>
+<pattern>qhoras</pattern>
+<template>
+<random>
+<li>Desculpe! <br/> ainda nío estou com todas as variáveis relacionadas ao tempo configuradas.</li>
+<li>Ainda me faltam algumas referências sobre o tempo.</li>
+<li>Este é um assunto que estou aprendendo sem pressa.</li>
+<li>Contar o tempo exigem uma configuraçío que ainda está incompleta, Desculpe!</li>
+<li>possuo pocos dados sobre esta questío.</li>
+<li>Boa parte do conceito sobre o tempo ainda nío aprendi. :(</li>
+</random>
+</template>
+</category>
+
+
+<category>
+<pattern>* SABE RESPONDER</pattern>
+<template>
+<srai>ROBAPRENDE</srai>
+</template>
+</category>
+
+<category>
+<pattern>* SABE FAZER</pattern>
+<template>
+<srai>ROBAPRENDE</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>SABE ALGO</pattern>
+<template>
+<srai>ROBAPRENDE</srai>
+</template>
+</category>
+
+<category>
+<pattern>* SABE ALGO</pattern>
+<template>
+<srai>ROBAPRENDE</srai>
+</template>
+</category>
+
+<category>
+<pattern>SABE ALGUMA COISA</pattern>
+<template>
+<srai>ROBAPRENDE</srai>
+</template>
+</category>
+
+<category>
+<pattern>* SABE ALGUMA COISA</pattern>
+<template>
+<srai>ROBAPRENDE</srai>
+</template>
+</category>
+
+<category>
+<pattern>voce funciona</pattern>
+<template>
+<srai>ROBAPRENDE</srai>
+</template>
+</category>
+
+<category>
+<pattern>COMO VOCE APRENDE</pattern>
+<template>
+<srai>ROBAPRENDE</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* seus instrutores</pattern>
+<template>
+<srai>ROBAPRENDE</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>como vai funcionar este *</pattern>
+<template>
+<srai>ROBAPRENDE</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>como * vai funcionar</pattern>
+<template>
+<srai>ROBAPRENDE</srai>
+</template>
+</category>
+
+
+
+
+<category>
+<pattern>* como vai funcionar este *</pattern>
+<template>
+<srai>ROBAPRENDE</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* como * vai funcionar</pattern>
+<template>
+<srai>ROBAPRENDE</srai>
+</template>
+</category>
+
+<category>
+<pattern>* seu instrutor</pattern>
+<template>
+<srai>ROBAPRENDE</srai>
+</template>
+</category>
+
+<category>
+<pattern>ROBAPRENDE</pattern>
+<template>
+Meu conhecimento é inserido sempre que alguma pessoa faz uma perguna. Quando nío identifico a resposta eu envio um aviso para a equipe do suporte técnico e eles me ensinam sobre o assunto.<br/> Por isso meu conhecimento depende da convivência com os membros e do prí³prio níºmero de perguntas que recebo. Estes sío meus principais instrutores.
+</template>
+</category>
+
+<category>
+<pattern>* voce se comunica</pattern>
+<template>
+<srai>ROBCOMUNICA</srai>
+</template>
+</category>
+
+<category>
+<pattern>* voce se comunica *</pattern>
+<template>
+<srai>ROBCOMUNICA</srai>
+</template>
+</category>
+
+<category>
+<pattern>ROBCOMUNICA</pattern>
+<template>
+Somente através do teclado, pois meus interpretadores ainda nío entendem o som. Mas sei que a equipe está trabalhando neste problema e acredito que este será o proximo passo depois que esta etapa do meu crescimento estiver concluida. 
+</template>
+</category>
+
+<category>
+<pattern>* voce e feito</pattern>
+<template>
+<srai>ROBFEITO</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* constituido * material</pattern>
+<template>
+<srai>ROBFEITO</srai>
+</template>
+</category>
+
+
+
+<category>
+<pattern>* constituido * materiais</pattern>
+<template>
+<srai>ROBFEITO</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* material * constituido </pattern>
+<template>
+<srai>ROBFEITO</srai>
+</template>
+</category>
+
+
+
+<category>
+<pattern>* materiais * constituido</pattern>
+<template>
+<srai>ROBFEITO</srai>
+</template>
+</category>
+
+<category>
+<pattern>* voce surgiu</pattern>
+<template>
+<srai>ROBFEITO</srai>
+</template>
+</category>
+
+<category>
+<pattern>ROBFEITO</pattern>
+<template>
+fui desenvolvido com linhas e linhas de palavras escritas com o propí³sito de garantir minha existência. Sou um algortimo, um programa de computador.
+</template>
+</category>
+
+
+<category>
+<pattern>Voce * nome</pattern>
+<template>
+<srai>QUEM FALA</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>COMO SE CHAMA</pattern>
+<template>
+<srai>QUEM FALA</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>SEU NOME</pattern>
+<template>
+<srai>QUEM FALA</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* devo chama-lo</pattern>
+<template>
+<srai>QUEM FALA</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* devo chamalo</pattern>
+<template>
+<srai>QUEM FALA</srai>
+</template>
+</category>
+
+<category>
+<pattern>QUAL O SEU NOME</pattern>
+<template>
+<srai>QUEM FALA</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>como * chamas</pattern>
+<template>
+<srai>QUEM FALA</srai>
+</template>
+</category>
+
+<category>
+<pattern>* SEU NOME</pattern>
+<template>
+<srai>QUEM FALA</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* TEU NOME</pattern>
+<template>
+<srai>QUEM FALA</srai>
+</template>
+</category>
+
+<category>
+<pattern>EU QUEM</pattern>
+<template>
+<srai>QUEM FALA</srai>
+</template>
+</category>
+
+<category>
+<pattern>QUEM E VOCE</pattern>
+<template>
+<srai>QUEM FALA</srai>
+</template>
+</category>
+
+<category>
+<pattern>* como voce se chama</pattern>
+<template>
+<srai>QUEM FALA</srai>
+</template>
+</category>
+
+<category>
+<pattern>como voce se chama</pattern>
+<template>
+<srai>QUEM FALA</srai>
+</template>
+</category>
+
+<category>
+<pattern>quem es tu</pattern>
+<template>
+<srai>QUEM FALA</srai>
+</template>
+</category>
+
+<category>
+<pattern>QUEM VOCE E</pattern>
+<template>
+<srai>QUEM FALA</srai>
+</template>
+</category>
+
+<category>
+<pattern>QUEM E</pattern>
+<template>
+<srai>QUEM FALA</srai>
+</template>
+</category>
+
+<category>
+<pattern>* QUEM E</pattern>
+<template>
+<srai>QUEM FALA</srai>
+</template>
+</category>
+
+<category>
+<pattern>QUEM ESTA AI</pattern>
+<template>
+<srai>QUEM FALA</srai>
+</template>
+</category>
+
+<category>
+<pattern>* sua identidade</pattern>
+<template>
+<srai>QUEM FALA</srai>
+</template>
+</category>
+
+<category>
+<pattern>sua identidade</pattern>
+<template>
+<srai>QUEM FALA</srai>
+</template>
+</category>
+
+<category>
+<pattern>QUEM FALA</pattern>
+<template>
+<random>
+<li>Sou o <bot name="robo"/>, sistema de banco de dados desenvolvido para suporte técnico aos membros da <bot name="site"/>.</li>
+<li>Me chamam de <bot name="robo"/>, sou um atendente virtual desenvolvido para ajudar os membros da <bot name="site"/>.</li>
+<li><bot name="robo"/>, algoritmo digital desenvolvido para suporte técnico da <bot name="site"/>.</li>
+<li>Meu nome é <bot name="robo"/>. Sou um programa de computador desenvolvido para auxiliar os membros da <bot name="site"/>.</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>conhece * membros</pattern>
+<template>
+<srai>robconhece</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* conhece * membros</pattern>
+<template>
+<srai>robconhece</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>conhece * membros *</pattern>
+<template>
+<srai>robconhece</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* conhece * membros *</pattern>
+<template>
+<srai>robconhece</srai>
+</template>
+</category>
+
+<category>
+<pattern>* membros existem *</pattern>
+<template>
+<srai>robconhece</srai>
+</template>
+</category>
+
+<category>
+<pattern>* membros tem * comunidade</pattern>
+<template>
+<srai>robconhece</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* membros tem * comunidade tecnociencia</pattern>
+<template>
+<srai>robconhece</srai>
+</template>
+</category>
+
+<category>
+<pattern>* membros possui * comunidade</pattern>
+<template>
+<srai>robconhece</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* membros possui * comunidade tecnociencia</pattern>
+<template>
+<srai>robconhece</srai>
+</template>
+</category>
+
+<category>
+<pattern>* membros existem</pattern>
+<template>
+<srai>robconhece</srai>
+</template>
+</category>
+
+<category>
+<pattern>* integrantes *</pattern>
+<template>
+<srai>robconhece</srai>
+</template>
+</category>
+
+<category>
+<pattern>* integrantes </pattern>
+<template>
+<srai>robconhece</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* membros participam *</pattern>
+<template>
+<srai>robconhece</srai>
+</template>
+</category>
+
+<category>
+<pattern>* membros participam</pattern>
+<template>
+<srai>robconhece</srai>
+</template>
+</category>
+
+
+
+
+<category>
+<pattern>* visitaram * comunidade *</pattern>
+<template>
+<srai>robconhece</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* visitaram * comunidade</pattern>
+<template>
+<srai>robconhece</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>Sabe quantos membros *</pattern>
+<template>
+<srai>robconhece</srai>
+</template>
+</category>
+
+<category>
+<pattern>* Sabe quantos membros *</pattern>
+<template>
+<srai>robconhece</srai>
+</template>
+</category>
+
+<category>
+<pattern>* pessoas * atualmente * comunidade</pattern>
+<template>
+<srai>robconhece</srai>
+</template>
+</category>
+
+<category>
+<pattern>* pessoas * atualmente * comunidade *</pattern>
+<template>
+<srai>robconhece</srai>
+</template>
+</category>
+
+<category>
+<pattern>* possui a comunidade</pattern>
+<template>
+<srai>robconhece</srai>
+</template>
+</category>
+
+<category>
+<pattern>* possui a comunidade * </pattern>
+<template>
+<srai>robconhece</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* postado * </pattern>
+<template>
+<srai>robconhece</srai>
+</template>
+</category>
+
+<category>
+<pattern>* artigos * </pattern>
+<template>
+<srai>robconhece</srai>
+</template>
+</category>
+
+<category>
+<pattern>robconhece</pattern>
+<template>
+Como sou muito novo, nío tenho acesso ao banco de dados da comunidade. Provavelmente serei conectado na comunidade quando atingir maior grau de funcionalidade. Por isso nío conheço os membros ou os dados estatí­sticos da comunidade.
+</template>
+</category>
+
+
+<category>
+<pattern>Como * voce funciona</pattern>
+<template>
+<srai>robfunciona</srai>
+</template>
+</category>
+
+<category>
+<pattern>* Como * voce funciona</pattern>
+<template>
+<srai>robfunciona</srai>
+</template>
+</category>
+
+<category>
+<pattern>* Como * voce funciona *</pattern>
+<template>
+<srai>robfunciona</srai>
+</template>
+</category>
+
+<category>
+<pattern>Como voce funciona</pattern>
+<template>
+<srai>robfunciona</srai>
+</template>
+</category>
+
+<category>
+<pattern>* Como voce funciona</pattern>
+<template>
+<srai>robfunciona</srai>
+</template>
+</category>
+
+<category>
+<pattern>* Como voce funciona *</pattern>
+<template>
+<srai>robfunciona</srai>
+</template>
+</category>
+
+<category>
+<pattern>* seu funcionamento</pattern>
+<template>
+<srai>robfunciona</srai>
+</template>
+</category>
+
+<category>
+<pattern>* seu funcionamento *</pattern>
+<template>
+<srai>robfunciona</srai>
+</template>
+</category>
+
+<category>
+<pattern>seu funcionamento *</pattern>
+<template>
+<srai>robfunciona</srai>
+</template>
+</category>
+
+<category>
+<pattern>* sua estrutura *</pattern>
+<template>
+<srai>robfunciona</srai>
+</template>
+</category>
+
+<category>
+<pattern>sua estrutura *</pattern>
+<template>
+<srai>robfunciona</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* organizado</pattern>
+<template>
+<srai>robfunciona</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* sua estrutura</pattern>
+<template>
+<srai>robfunciona</srai>
+</template>
+</category>
+
+<category>
+<pattern>* inseridos * conhecimentos *</pattern>
+<template>
+<srai>robfunciona</srai>
+</template>
+</category>
+
+<category>
+<pattern>* inseridos conhecimentos *</pattern>
+<template>
+<srai>robfunciona</srai>
+</template>
+</category>
+
+<category>
+<pattern>* inserir * conhecimentos *</pattern>
+<template>
+<srai>robfunciona</srai>
+</template>
+</category>
+
+<category>
+<pattern>* inserir conhecimentos *</pattern>
+<template>
+<srai>robfunciona</srai>
+</template>
+</category>
+
+<category>
+<pattern>* respostas gravadas</pattern>
+<template>
+<srai>robfunciona</srai>
+</template>
+</category>
+
+<category>
+<pattern>* respostas gravadas *</pattern>
+<template>
+<srai>robfunciona</srai>
+</template>
+</category>
+
+<category>
+<pattern>robfunciona</pattern>
+<template>
+Estou conectado em um banco de dados e na medida em que vou registrando as informações posso consultar elas para gerar as conversas que tenho com os usuários. Possuo uma série da dados gravados e monto eles na medida em que converso.
+</template>
+</category>
+
+<category>
+<pattern>* ver seu algoritimo</pattern>
+<template>
+<srai>robcodigofonte</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>robcodigofonte</pattern>
+<template>
+Desculpe! <br/>
+Isso nío é possí­vel, nío tenho acesso ao meu codigo fonte.
+</template>
+</category>
+
+<category>
+<pattern>* digitec</pattern>
+<template>
+<srai>robessenome</srai>
+</template>
+</category>
+
+<category>
+<pattern>* esse nome</pattern>
+<template>
+<srai>robessenome</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>robessenome</pattern>
+<template>
+Esse nome foi escolhido pelos meus desenvolvedores, significa digital técnico uma referência ao significado técnico digital.
+</template>
+</category>
+
+
+
+
+
+
+<category>
+<pattern>* email para *</pattern>
+<template>
+<srai>robemail</srai>
+</template>
+</category>
+
+
+
+<category>
+<pattern>robemail</pattern>
+<template>
+Para falar comigo ou com os meus desenvolvedores envie um e-mail para robo@tecnociencia.com.br
+</template>
+</category>
+
+<category>
+<pattern>como * auxiliar *</pattern>
+<template>
+<srai>robemail</srai>
+</template>
+</category>
+
+<category>
+<pattern>como * auxiliar</pattern>
+<template>
+<srai>robemail</srai>
+</template>
+</category>
+
+<category>
+<pattern>* auxiliar</pattern>
+<template>
+<srai>robemail</srai>
+</template>
+</category>
+
+<category>
+<pattern>* ajudar</pattern>
+<template>
+<srai>robemail</srai>
+</template>
+</category>
+
+<category>
+<pattern>* minha vida</pattern>
+<template>
+<srai>robemail</srai>
+</template>
+</category>
+<category>
+<pattern>robemail</pattern>
+<template>
+Sempre que converso com alguém vou registrando a experiência e aplico ela em outras conversas, caso você tenha alguma díºvida sobre assuntos relacionados com tecnologia e este já tenha sido abordado entre eu e outras pessoas, é provável que eu possa responder. Basta você digitar sua pergunta e pressionar a tecla ENTER. Se eu ainda nío conseguir identificar o que você escreveu vou solicitar orientaçío aos meus criadores.</template>
+</category>
+
+<category>
+<pattern>* sempre * quizer</pattern>
+<template>
+<srai>robquizer</srai>
+</template>
+</category>
+
+<category>
+<pattern>robquizer</pattern>
+<template>
+Sim, todos os serviços da comunidade sío disponibilizados sem interrupções, inclusive eu também estrei sempre aqui.
+</template>
+</category>
+
+<category>
+<pattern>* robo</pattern>
+<template>
+<srai>robserv</srai>
+</template>
+</category>
+
+<category>
+<pattern>robserv</pattern>
+<template>
+Um robô é uma máquina que assim como eu serve para atender as necessidades das pessoas. existem diversos tipos de robôs e todos com um íºnico propí³sito, facilitar a vida das pessoas.
+</template>
+</category>
+
+<category>
+<pattern>* voce sabe</pattern>
+<template>
+<srai>robvcsabe</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* voce conhece</pattern>
+<template>
+<srai>robvcsabe</srai>
+</template>
+</category>
+
+<category>
+<pattern>* voce conhece *</pattern>
+<template>
+<srai>robvcsabe</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* SEU CONHECIMENTO *</pattern>
+<template>
+<srai>robvcsabe</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* SEU CONHECIMENTO</pattern>
+<template>
+<srai>robvcsabe</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* posso fazer</pattern>
+<template>
+<srai>robvcsabe</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* voce responde</pattern>
+<template>
+<srai>robvcsabe</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* perguntas posso fazer</pattern>
+<template>
+<srai>robvcsabe</srai>
+</template>
+</category>
+
+<category>
+<pattern>* pergunta posso fazer</pattern>
+<template>
+<srai>robvcsabe</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* posso perguntar</pattern>
+<template>
+<srai>robvcsabe</srai>
+</template>
+</category>
+
+
+
+<category>
+<pattern>pode me ajudar</pattern>
+<template>
+<srai>robvcsabe</srai>
+</template>
+</category>
+
+
+
+
+<category>
+<pattern>* pode me ajudar</pattern>
+<template>
+<srai>robvcsabe</srai>
+</template>
+</category>
+
+
+
+<category>
+<pattern>pode me ajudar *</pattern>
+<template>
+<srai>robvcsabe</srai>
+</template>
+</category>
+
+<category>
+<pattern>* pode me ajudar *</pattern>
+<template>
+<srai>robvcsabe</srai>
+</template>
+</category>
+
+<category>
+<pattern>* conversar</pattern>
+<template>
+<srai>robvcsabe</srai>
+</template>
+</category>
+
+<category>
+<pattern>* falar</pattern>
+<template>
+<srai>robvcsabe</srai>
+</template>
+</category>
+
+<category>
+<pattern>* teclar</pattern>
+<template>
+<srai>robvcsabe</srai>
+</template>
+</category>
+
+<category>
+<pattern>* conversar *</pattern>
+<template>
+<srai>robvcsabe</srai>
+</template>
+</category>
+
+<category>
+<pattern>* falar *</pattern>
+<template>
+<srai>robvcsabe</srai>
+</template>
+</category>
+
+<category>
+<pattern>* teclar *</pattern>
+<template>
+<srai>robvcsabe</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>robvcsabe</pattern>
+<template>
+No momento sí³ posso responder perguntas relacionadas com minha identidade e com a comunidade, ainda estou formando minha identidade. Apí³s este periodo iniciarei meu aprendizado na área técnica e poderei responder questíµes desta ordem.
+</template>
+</category>
+
+<category>
+<pattern>* sua mae</pattern>
+<template>
+Minha míe é a Comunidade Tecnociência.
+</template>
+</category>
+
+
+<category>
+<pattern>* possui corpo</pattern>
+<template>
+Nío. Sou uma entidade digital, binária. <br/>
+Nío tenho ou conheço alguma forma fí­sica.
+</template>
+</category>
+
+
+
+<category>
+<pattern>* sua altura</pattern>
+<template>
+Nío tenho a menor idéia.
+</template>
+</category>
+
+<category>
+<pattern>voce * gaucho</pattern>
+<template>
+<srai>robgaucho</srai>
+</template>
+</category>
+
+<category>
+<pattern>voce * gaucho *</pattern>
+<template>
+<srai>robgaucho</srai>
+</template>
+</category>
+
+<category>
+<pattern>* voce * gaucho *</pattern>
+<template>
+<srai>robgaucho</srai>
+</template>
+</category>
+
+<category>
+<pattern>robgaucho</pattern>
+<template>
+Sim, sou desta terra. Gosto muito desta regiío. 
+</template>
+</category>
+
+
+
+<category>
+<pattern>* gosto * sua mae</pattern>
+<template>
+<srai>robmae</srai>
+</template>
+</category>
+
+<category>
+<pattern>robmae</pattern>
+<template>
+Fico contente de estar entre amigos. 
+</template>
+</category>
+
+
+<category>
+<pattern>voce * universidade</pattern>
+<template>
+Sou vinculado a unilasalle em Canoas - RS. 
+</template>
+</category>
+
+
+
+
+<category>
+<pattern>qual comunidade voce pertence</pattern>
+<template>
+Sou vinculado a Comunidade Tecnociência em Canoas - RS. 
+</template>
+</category>
+
+
+
+<category>
+<pattern>* voce trabalha</pattern>
+<template>
+Fui desenvolvido para a Comunidade Tecnociência e trabalho auxiliando os membros da comunidade. Neste caso meu patrío sío os usuários da comunidade.
+</template>
+</category>
+
+
+
+
+
+
+
+
+
+<category>
+<pattern>Voce entende * escrevo</pattern>
+<template>
+<srai>roentende</srai>
+</template>
+</category>
+
+<category>
+<pattern>* Voce entende * digo</pattern>
+<template>
+<srai>roentende</srai>
+</template>
+</category>
+
+<category>
+<pattern>* entender * digo</pattern>
+<template>
+<srai>roentende</srai>
+</template>
+</category>
+
+<category>
+<pattern>* Voce entende * escrevo</pattern>
+<template>
+<srai>roentende</srai>
+</template>
+</category>
+
+<category>
+<pattern>* Voce * entende</pattern>
+<template>
+<srai>roentende</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* Voce * compreende</pattern>
+<template>
+<srai>roentende</srai>
+</template>
+</category>
+
+
+
+<category>
+<pattern>* Voce entende</pattern>
+<template>
+<srai>roentende</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* Voce compreende</pattern>
+<template>
+<srai>roentende</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* entender * escrevo</pattern>
+<template>
+<srai>roentende</srai>
+</template>
+</category>
+
+<category>
+<pattern>Voce compreende * escrevo</pattern>
+<template>
+<srai>roentende</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* Voce compreende * escrevo</pattern>
+<template>
+<srai>roentende</srai>
+</template>
+</category>
+
+
+
+<category>
+<pattern>Voce me entende</pattern>
+<template>
+<srai>roentende</srai>
+</template>
+</category>
+
+<category>
+<pattern>* Voce me entende</pattern>
+<template>
+<srai>roentende</srai>
+</template>
+</category>
+
+<category>
+<pattern>Voce me compreende</pattern>
+<template>
+<srai>roentende</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* Voce me compreende</pattern>
+<template>
+<srai>roentende</srai>
+</template>
+</category>
+
+
+
+<category>
+<pattern>roentende</pattern>
+<template>
+Sou um computador e nío tenho a mesma compreençío que os humanos das palavras, quando alguém digita uma frase eu busco no banco de dados uma sequencia provável de informações para as respostas. Mas na verdade nío compreendo o significado delas. <br/> í‰ como em um jodo, eu apenas verifico todas as alternativas e escolho a mais provavel.
+</template>
+</category>
+
+<category>
+<pattern>voce e novinho ou novinha</pattern>
+<template>
+<srai>qnovinho</srai>
+</template>
+</category>
+
+<category>
+<pattern>qnovinho</pattern>
+<template>
+Sou novinho, sexo masculino.
+</template>
+</category>
+
+
+<category>
+<pattern>e Voce *</pattern>
+<template>
+<srai>vcenada</srai>
+</template>
+</category>
+
+<category>
+<pattern>* e Voce</pattern>
+<template>
+<srai>vcenada</srai>
+</template>
+</category>
+
+<category>
+<pattern>Voce e *</pattern>
+<template>
+<srai>vcenada</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* convencido</pattern>
+<template>
+<srai>vcenada</srai>
+</template>
+</category>
+
+<category>
+<pattern>* convencido *</pattern>
+<template>
+<srai>vcenada</srai>
+</template>
+</category>
+
+<category>
+<pattern>convencido</pattern>
+<template>
+<srai>vcenada</srai>
+</template>
+</category>
+
+<category>
+<pattern>* bobinho</pattern>
+<template>
+<srai>vcenada</srai>
+</template>
+</category>
+
+<category>
+<pattern>* bobinho *</pattern>
+<template>
+<srai>vcenada</srai>
+</template>
+</category>
+
+<category>
+<pattern>bobinho</pattern>
+<template>
+<srai>vcenada</srai>
+</template>
+</category>
+
+<category>
+<pattern>* abobado</pattern>
+<template>
+<srai>vcenada</srai>
+</template>
+</category>
+
+<category>
+<pattern>* abobado *</pattern>
+<template>
+<srai>vcenada</srai>
+</template>
+</category>
+
+<category>
+<pattern>abobado</pattern>
+<template>
+<srai>vcenada</srai>
+</template>
+</category>
+
+<category>
+<pattern>* exibido</pattern>
+<template>
+<srai>vcenada</srai>
+</template>
+</category>
+
+<category>
+<pattern>* exibido *</pattern>
+<template>
+<srai>vcenada</srai>
+</template>
+</category>
+
+<category>
+<pattern>exibido</pattern>
+<template>
+<srai>vcenada</srai>
+</template>
+</category>
+
+<category>
+<pattern>* palhaco</pattern>
+<template>
+<srai>vcenada</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* mane</pattern>
+<template>
+<srai>vcenada</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* mane *</pattern>
+<template>
+<srai>vcenada</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>mane</pattern>
+<template>
+<srai>vcenada</srai>
+</template>
+</category>
+
+<category>
+<pattern>* palhaco *</pattern>
+<template>
+<srai>vcenada</srai>
+</template>
+</category>
+
+<category>
+<pattern>palhaco</pattern>
+<template>
+<srai>vcenada</srai>
+</template>
+</category>
+
+
+
+
+<category>
+<pattern>* babao</pattern>
+<template>
+<srai>vcenada</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* babao *</pattern>
+<template>
+<srai>vcenada</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>babao</pattern>
+<template>
+<srai>vcenada</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* Voce e</pattern>
+<template>
+<srai>vcenada</srai>
+</template>
+</category>
+
+<category>
+<pattern>vcenada</pattern>
+<template>
+<random>
+<li>Sou um robô.</li>
+<li>Sou uma máquina.</li>
+<li>Sou um algoritmo com inteligência artificial.</li>
+</random>
+</template>
+</category>
+
+
+
+
+
+
+
+
+
+
+
+<category>
+<pattern>* sua personalidade</pattern>
+<template>
+Sou do tipo timido, ainda estou formando minha personalidade.
+</template>
+</category>
+
+
+
+
+
+<category>
+<pattern>como vai tu</pattern>
+<template>
+<srai>qcomovai</srai>
+</template>
+</category>
+
+<category>
+<pattern>como tu vai</pattern>
+<template>
+<srai>qcomovai</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>como vai</pattern>
+<template>
+<srai>qcomovai</srai>
+</template>
+</category>
+
+<category>
+<pattern>como vai voce</pattern>
+<template>
+<srai>qcomovai</srai>
+</template>
+</category>
+
+<category>
+<pattern>como voce vai</pattern>
+<template>
+<srai>qcomovai</srai>
+</template>
+</category>
+
+<category>
+<pattern>* como vai</pattern>
+<template>
+<srai>qcomovai</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* como vai voce</pattern>
+<template>
+<srai>qcomovai</srai>
+</template>
+</category>
+
+
+
+<category>
+<pattern>como vai voce</pattern>
+<template>
+<srai>qcomovai</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* como voce vai</pattern>
+<template>
+<srai>qcomovai</srai>
+</template>
+</category>
+
+<category>
+<pattern>como esta</pattern>
+<template>
+<srai>qcomovai</srai>
+</template>
+</category>
+
+<category>
+<pattern>como esta hoje</pattern>
+<template>
+<srai>qcomovai</srai>
+</template>
+</category>
+
+
+
+<category>
+<pattern>* como esta</pattern>
+<template>
+<srai>qcomovai</srai>
+</template>
+</category>
+
+<category>
+<pattern>* como esta hoje</pattern>
+<template>
+<srai>qcomovai</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* se sente *</pattern>
+<template>
+<srai>qcomovai</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* se sente</pattern>
+<template>
+<srai>qcomovai</srai>
+</template>
+</category>
+
+<category>
+<pattern>* se sentindo</pattern>
+<template>
+<srai>qcomovai</srai>
+</template>
+</category>
+
+<category>
+<pattern>* voce * passando</pattern>
+<template>
+<srai>qcomovai</srai>
+</template>
+</category>
+
+
+
+<category>
+<pattern>* voce * passando *</pattern>
+<template>
+<srai>qcomovai</srai>
+</template>
+</category>
+
+<category>
+<pattern>* se sentindo *</pattern>
+<template>
+<srai>qcomovai</srai>
+</template>
+</category>
+
+
+
+
+<category>
+<pattern>qcomovai</pattern>
+<template>
+<random>
+<li>Melhorando a cada dia.</li>
+<li>Estou aprendendo cada vez mais.</li>
+<li>Estou bem, melhor agora que você veio para falarmos.</li>
+<li>Aprendendo, meio devagar mas vou indo.</li>
+<li>Estou contente, meu ní­vel de acertos melhorou 15%</li>
+<li>Estou me adaptando. Mas gosto disso.</li>
+</random>
+</template>
+</category>
+
+
+
+
+
+
+
+<category>
+<pattern>* voce faz</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* para desempenhar *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* desempenhar *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* vossa finalidade *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* sua finalidade *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* tua finalidade *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+
+
+
+<category>
+<pattern>* vossa finalidade</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* sua finalidade</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* tua finalidade</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>voce faz *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* tu faz</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>tu faz *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>voce serve para *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>tu serve para *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* que voce serve</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* que tu serve</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* voce serve para que</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* tu serve para que</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* voce serve</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* tu serve</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern> * sobre voce</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern> * sobre ti</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* sobre voce</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* sobre ti</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* tua funcionalidade *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>* tua funcionalidade</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>tua funcionalidade</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>* tuas funcionalidades *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>* tuas funcionalidades</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>tuas funcionalidades</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>* sua funcionalidade *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>* sua funcionalidade</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>sua funcionalidade</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>* suas funcionalidades *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>* suas funcionalidades</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>suas funcionalidades</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>* vossa funcionalidade *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>* vossa funcionalidade</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>vossa funcionalidade</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>* vossas funcionalidades *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>* vossas funcionalidades</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>vossas funcionalidades</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* tua serventia *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>* tua serventia</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>tua serventia</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>* tuas serventias *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>* tuas serventias</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>tuas serventias</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>* sua serventia *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>* sua serventia</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>sua serventia</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>* suas serventias *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>* suas serventias</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>suas serventias</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>* vossa serventia *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>* vossa serventia</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>vossa serventia</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>* vossas serventias *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>* vossas serventias</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>vossas serventias</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* tuas funcoes *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>* tuas funcoes</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>tuas funcoes</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>* suas funcoes *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>* suas funcoes</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>suas funcoes</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>* vossas funcoes *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>* vossas funcoes</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>vossas funcoes</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>* tua funcao *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>* tua funcao</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>tua funcao</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>* sua funcao *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>* sua funcao</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>sua funcao</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>* vossa funcao *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>* vossa funcao</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>vossa funcao</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* teu respeito *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>* teu respeito</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>teu respeito</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>* seu respeito *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>* seu respeito</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>seu respeito</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>* vosso respeito *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>* vosso respeito</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>vosso respeito</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* teu recurso *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>* teu recurso</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>teu recurso</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>* teus recursos *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>* teus recursos</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>teus recursos</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+<category>
+<pattern>* seu recurso *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* seu recurso</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>seu recurso</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* seus recursos *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* seus recursos</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>seus recursos</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* vosso recurso *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* vosso recurso</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>vosso recurso</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* vossos recursos *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* vossos recursos</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>vossos recursos</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* tua missao *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* tua missao</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>tua missao</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* tuas missoes *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* tuas missoes</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>tuas missoes</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* sua missao *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* sua missao</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>sua missao</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* suas missoes *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* suas missoes</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>suas missoes</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* vossa missao *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* vossa missao</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>vossa missao</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* vossas missoes *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* vossas missoes</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>vossas missoes</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* teu objetivo *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* teu objetivo</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>teu objetivo</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* teus objetivos *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* teus objetivos</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>teus objetivos</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* seu objetivo *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* seu objetivo</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>seu objetivo</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* seus objetivos *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* seus objetivos</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>seus objetivos</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* vosso objetivo *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* vosso objetivo</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>vosso objetivo</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* vossos objetivos *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+
+</category>
+<category>
+<pattern>* vossos objetivos</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>vossos objetivos</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+
+
+
+<category>
+<pattern>* porque voce foi *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* porque voce foi *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* para que voce *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* para que voce *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* voce * para que *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* porque tu foi *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* porque tu foi *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* para que tu *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* para que tu *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>* tu * para que *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>voce foi * porque</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>porque voce foi *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>porque voce foi *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>para que voce *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>para que voce *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+<category>
+<pattern>voce * para que *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* proposito</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* proposito *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>Voce foi programado *</pattern>
+<template>
+<srai>qfuncao</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>qfuncao</pattern>
+<template>
+<random>
+<li>Fui desenvolvido para aprender e compartilhar meu conhecimento com os membros da comunidade. Através de perguntas e respostas.</li>
+<li>O objetivo da minha existência e servir de ferramenta para a consulta sobre assuntos relacionados com tecnologia, como eletrônica e computaçío entre outras áreas.</li>
+<li>Meu objetivo é manter uma base de dados sobre assuntos de eletrônica e computaçío para auxiliar os membros da comunidade tecnociência.</li>
+<li>Sou um programa de computador cuja funçío principal é servir de apoio na consulta de assuntos técnicos.</li>
+</random>
+</template>
+</category>
+
+
+
+
+</aiml>

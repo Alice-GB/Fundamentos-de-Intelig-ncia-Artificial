@@ -1,0 +1,1075 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+
+<category>
+<pattern>o que é um projeto</pattern>
+<template><srai>DEFINICAO_PROJETO</srai></template>
+</category>
+
+<category>
+<pattern>o que  *  projeto</pattern>
+<template><srai>DEFINICAO_PROJETO</srai></template>
+</category>
+
+<category>
+<pattern>é projeto</pattern>
+<template><srai>DEFINICAO_PROJETO</srai></template>
+</category>
+
+<category>
+<pattern>definicao projeto</pattern>
+<template><srai>DEFINICAO_PROJETO</srai></template>
+</category>
+
+<category>
+<pattern>definição projeto</pattern>
+<template><srai>DEFINICAO_PROJETO</srai></template>
+</category>
+
+<category>
+<pattern>DEFINICAO_PROJETO</pattern>
+<template>
+	Projeto é um esforço temporário empreendido para criar um produto, serviço ou resultado exclusivo.
+</template>
+</category>
+
+
+
+<category>
+<pattern>definicao gerenciamento de requisitos</pattern>
+<template><srai>GERENCIAMENTO_REQUISITO</srai></template>
+</category>
+
+<category>
+<pattern>* gerenciamento de requisitos</pattern>
+<template><srai>DEFINICAO_PROJETO</srai></template>
+</category>
+
+<category>
+<pattern>GERENCIAMENTO_REQUISITO</pattern>
+<template>
+	O gerenciamento de requisitos é um modelo sistemático para encontrar, documentar, organizar e rastrear os requisitos variáveis de um sistema.
+</template>
+</category>
+
+
+
+<category>
+<pattern>analise do problema</pattern>
+<template><srai>DEFINICAO_ANALISE_PROBLEMA</srai></template>
+</category>
+
+<category>
+<pattern>* analise do problema</pattern>
+<template><srai>DEFINICAO_ANALISE_PROBLEMA</srai></template>
+</category>
+
+<category>
+<pattern>DEFINICAO_ANALISE_PROBLEMA</pattern>
+<template>
+	 A análise do problema é feita para compreender os problemas e as necessidades iniciais dos envolvidos, e propor soluções de alto nível. É um ato de ponderação e análise encontrar "o problema por trás do problema". Durante a análise do problema, são reconhecidos os problemas reais e quais são os envolvidos. Além disso, você define quais são, de uma perspectiva de negócios, as fronteiras da solução e as restrições de negócios da solução. Você também deverá ter analisado o caso de negócio para o projeto, para que haja uma boa compreensão de qual é o retorno esperado do investimento feito do sistema que está sendo construído.
+</template>
+</category>
+
+
+
+<category>
+<pattern>definicao sistema</pattern>
+<template><srai>DEFINICAO_SISTEMA</srai></template>
+</category>
+
+<category>
+<pattern>* definicao sistema</pattern>
+<template><srai>DEFINICAO_SISTEMA</srai></template>
+</category>
+
+<category>
+<pattern>DEFINICAO_SISTEMA</pattern>
+<template>
+	Definir o sistema significa traduzir e organizar as necessidades dos envolvidos em descrições significativas do sistema a ser construído. No início da definição do sistema, ocorre o seguinte: as decisões sobre o que constitui um requisito, o formato de documentação, a formalidade do idioma, o grau de especificidade dos requisitos (quantos e com que detalhe), a prioridade das solicitações e o esforço estimado (duas avaliações bem diferentes em geral atribuídas por pessoas diferentes em testes separados), os riscos técnicos e de gerenciamento, e o escopo inicial. Parte dessa atividade pode incluir modelos de design e protótipos iniciais diretamente relacionados aos mais importantes requisitos dos envolvidos. O resultado da definição do sistema é uma descrição do sistema que esteja em idioma natural e também seja gráfica.
+</template>
+</category>
+
+
+
+<category>
+<pattern>essencia de um sistema *</pattern>
+<template><srai>ESSENCIA_SISTEMA</srai></template>
+</category>
+
+<category>
+<pattern>essencia de um sistema</pattern>
+<template><srai>ESSENCIA_SISTEMA</srai></template>
+</category>
+
+<category>
+<pattern>*  essencia de um sistema</pattern>
+<template><srai>ESSENCIA_SISTEMA</srai></template>
+</category>
+
+<category>
+<pattern>essencia de um sistema</pattern>
+<template><srai>ESSENCIA_SISTEMA</srai></template>
+</category>
+
+<category>
+<pattern>ESSENCIA_SISTEMA</pattern>
+<template>
+	A essência de um sistema é o que ele é no seu nível mais básico.
+</template>
+</category>
+
+
+
+<category>
+<pattern>dicas *</pattern>
+<template><srai>DICAS_PROJETO</srai></template>
+</category>
+
+<category>
+<pattern>dicas</pattern>
+<template><srai>DICAS_PROJETO</srai></template>
+</category>
+
+<category>
+<pattern>* dicas</pattern>
+<template><srai>DICAS_PROJETO</srai></template>
+</category>
+
+<category>
+<pattern>DICAS_PROJETO</pattern>
+<template>
+	1) Enpsule o que varia, pois você torna a sua aplicação mais flexivel e mais fácil de alterar.
+	2) Codifique sempre que possivel para uma interface em vez de para uma implementação torna o seu código mais fácil de estender.
+	3) Você pode resolver um problema grande dividindo-o em partes funcionais e então pode trabalhar em cada uma delas individualmente.
+	4) Se voce tiver bons casos de uso, normalmente poderá alterar o seu software rapidamente para se ajustar aos novos requisitos.
+</template>
+</category>
+
+
+
+
+<category>
+<pattern>em que devo comecar um sistema</pattern>
+<template><srai>INICIAR_PROJETO</srai></template>
+</category>
+
+<category>
+<pattern>* devo comecar um sistema</pattern>
+<template><srai>INICIAR_PROJETO</srai></template>
+</category>
+
+<category>
+<pattern>INICIAR_PROJETO</pattern>
+<template>
+	Começe a trabalhar em um sistema pela criação de uma lista de requisitos e escrevendo os casos de uso é uma grande idéia. 
+	<br/>Você pode descobrir o que o sistema deve fazer e completar a sua lista adicionando a funcionalidade pouco a pouco.. 
+	<br/>Resolvendo, assim, montes de pequenos problemas para solucionar um problema realmente grande.
+</template>
+</category>
+
+
+
+<category>
+<pattern>como reduzir riscos * projeto</pattern>
+<template><srai>REDUZIR_RISCOS_PROJETO</srai></template>
+</category>
+
+<category>
+<pattern>reduzir riscos</pattern>
+<template><srai>REDUZIR_RISCOS_PROJETO</srai></template>
+</category>
+
+<category>
+<pattern>como reduzir riscos de um projeto</pattern>
+<template><srai>REDUZIR_RISCOS_PROJETO</srai></template>
+</category>
+
+<category>
+<pattern>REDUZIR_RISCOS_PROJETO</pattern>
+<template>
+	Concentre-se em um recurso por vez, não se distraia com recursos que não ajudarão a reduzir os riscos.
+</template>
+</category>
+
+
+
+<category>
+<pattern>bom projeto</pattern>
+<template>
+<srai>BOM_PROJETO</srai>
+</template>
+</category>
+
+<category>
+<pattern>bons projetos</pattern>
+<template><srai>BOM_PROJETO</srai></template>
+</category>
+
+<category>
+<pattern>BOM_PROJETO</pattern>
+<template>
+	O bom projeto sempre reduzirá os riscos.
+</template>
+</category>
+
+
+
+
+
+<category>
+<pattern>gerenciamento escopo * projeto</pattern>
+<template><srai>GERENCIAMENTO_ESCOPO_PROJETO</srai></template>
+</category>
+
+<category>
+<pattern>gerenciamento escopo de um projeto</pattern>
+<template><srai>GERENCIAMENTO_ESCOPO_PROJETO</srai></template>
+</category>
+
+<category>
+<pattern>GERENCIAMENTO_ESCOPO_PROJETO</pattern>
+<template>
+	Para gerenciar com eficiência um projeto, é necessário priorizar os requisitos, com base em retorno dado por todos os envolvidos, e gerenciar o seu escopo. Vários projetos têm seus desenvolvedores trabalhando nos chamados "ovos de Páscoa" (características que o desenvolvedor acha interessantes e desafiadoras), em vez de estarem concentrados desde o início em tarefas que aliviam algum risco no projeto ou estabilizam a arquitetura do aplicativo. Para assegurar que os riscos de um projeto sejam resolvidos ou aliviados o mais cedo possível, você deve desenvolver seu sistema de modo incremental, escolhendo cuidadosamente os requisitos para cada incremento que alivia os riscos conhecidos do projeto. Para fazê-lo, você precisa negociar o escopo (de cada iteração) com os envolvidos no projeto. Normalmente, isso requer boas habilidades no gerenciamento de expectativas dos resultados do projeto em suas diferentes fases. Você também precisa ter controle das origens dos requisitos, da aparência dos produtos liberados pelo projeto e do processo de desenvolvimento propriamente dito.
+</template>
+</category>
+
+
+
+
+<category>
+<pattern>refinamento da definicao do sistema</pattern>
+<template><srai>GERENCIAMENTO_ESCOPO_PROJETO</srai></template>
+</category>
+
+<category>
+<pattern>refinamento da * sistema</pattern>
+<template><srai>GERENCIAMENTO_ESCOPO_PROJETO</srai></template>
+</category>
+
+<category>
+<pattern>GERENCIAMENTO_ESCOPO_PROJETO</pattern>
+<template>
+A definição detalhada do sistema precisa ser apresentada de maneira que os envolvidos possam entendê-la, concordar com ela e sair dela. Ela precisa abordar não apenas a funcionalidade, mas também a compatibilidade com os requisitos legais ou reguladores, a usabilidade, a confiabilidade, o desempenho, a capacidade de suporte e de manutenção. Um erro comum é acreditar que o que você sente é complexo para estabelecer necessidades que tenham uma definição complexa. Isso cria dificuldades para explicar a finalidade do projeto e do sistema. As pessoas podem ficar impressionadas, mas elas não darão bons retornos por falta de compreensão. Você deve se esforçar para compreender o público destinado aos documentos que você produz para descrever o sistema. Você sempre poderá produzir vários tipos de descrição para públicos diferentes.
+Já vimos que a metodologia do caso de uso, muitas vezes em combinação com protótipos visuais simples, é um modo bem eficiente de comunicar a finalidade do sistema e definir os detalhes do sistema. Os casos de uso ajudam a colocar os requisitos em um contexto, eles contam uma história de como o sistema será usado.
+Outro componente da definição detalhada do sistema é estabelecer como o sistema deverá ser testado. Planos de teste e definições dos testes a serem realizados nos dizem quais capacidades do sistema serão verificadas.
+</template>
+</category>
+
+
+
+<category>
+<pattern>escrever um grande codigo</pattern>
+<template>
+<srai>GRANDE_CODIGO</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* grande codigo</pattern>
+<template>
+<srai>GRANDE_CODIGO</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>grande codigo</pattern>
+<template>
+<srai>GRANDE_CODIGO</srai>
+</template>
+</category>
+
+<category>
+<pattern>melhor forma de escrever um grande codigo</pattern>
+<template>
+<srai>GRANDE_CODIGO</srai>
+</template>
+</category>
+
+<category>
+<pattern>melhor forma de escrever *</pattern>
+<template>
+<srai>GRANDE_CODIGO</srai>
+</template>
+</category>
+
+<category>
+<pattern>GRANDE_CODIGO</pattern>
+<template>
+	Algumas vezes, a melhor forma de escrever um grande código é adiar essa atividade o máximo que você puder.
+</template>
+</category>
+
+
+
+<category>
+<pattern>concentrar primeiro</pattern>
+<template>
+<srai>CONCENTRAR_PRIMEIRO</srai>
+</template>
+</category>
+
+<category>
+<pattern>*  concentrar primeiro</pattern>
+<template>
+<srai>CONCENTRAR_PRIMEIRO</srai>
+</template>
+</category>
+
+<category>
+<pattern>em que devo concentrar primeiro</pattern>
+<template>
+<srai>CONCENTRAR_PRIMEIRO</srai>
+</template>
+</category>
+
+<category>
+<pattern>devo me concentrar primeiro  *</pattern>
+<template>
+<srai>CONCENTRAR_PRIMEIRO</srai>
+</template>
+</category>
+
+<category>
+<pattern>devo me concentrar primeiro</pattern>
+<template>
+<srai>CONCENTRAR_PRIMEIRO</srai>
+</template>
+</category>
+
+<category>
+<pattern>*  devo me concentrar primeiro</pattern>
+<template>
+<srai>CONCENTRAR_PRIMEIRO</srai>
+</template>
+</category>
+
+<category>
+<pattern>CONCENTRAR_PRIMEIRO</pattern>
+<template>
+	Concentre-se primeiro nas coisas do seu sistema que são arquiteturalmente significativas(nos recursos principais).
+</template>
+</category>
+
+
+
+
+<category>
+<pattern>iniciar um projeto</pattern>
+<template>
+<srai>INICIAR_PROJETO</srai>
+</template>
+</category>
+
+<category>
+<pattern>*  iniciar um projeto  *</pattern>
+<template>
+<srai>INICIAR_PROJETO</srai>
+</template>
+</category>
+
+<category>
+<pattern>iniciar um projeto  *</pattern>
+<template>
+<srai>INICIAR_PROJETO</srai>
+</template>
+</category>
+<category>
+
+<pattern>ao iniciar um projeto</pattern>
+<template>
+<srai>INICIAR_PROJETO</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>*  inicie um projeto</pattern>
+<template>
+<srai>INICIAR_PROJETO</srai>
+</template>
+</category>
+
+<category>
+<pattern>inicie um projeto  *</pattern>
+<template>
+<srai>INICIAR_PROJETO</srai>
+</template>
+</category>
+
+<category>
+<pattern>inicie um projeto</pattern>
+<template>
+<srai>INICIAR_PROJETO</srai>
+</template>
+</category>
+
+<category>
+<pattern>*  inicie um projeto pensando</pattern>
+<template>
+<srai>INICIAR_PROJETO</srai>
+</template>
+</category>
+
+<category>
+<pattern>INICIAR_PROJETO</pattern>
+<template>
+	Sempre inicie um projeto concentrando-se na funcionalidade.
+</template>
+</category>
+
+
+
+
+<category>
+<pattern>ocp</pattern>
+<template>
+<srai>PRINCIPIO_PROJETO_OCP</srai>
+</template>
+</category>
+
+<category>
+<pattern>*  ocp?</pattern>
+<template>
+	<srai>PRINCIPIO_PROJETO_OCP</srai>
+</template>
+</category>
+
+<category>
+<pattern>*  ocp</pattern>
+<template>
+	<srai>PRINCIPIO_PROJETO_OCP</srai>
+</template>
+</category>
+
+<category>
+<pattern>ocp?</pattern>
+<template><srai>PRINCIPIO_PROJETO_OCP</srai></template>
+</category>
+
+<category>
+<pattern>PRINCIPIO_PROJETO_OCP</pattern>
+<template>
+	OCP está relacionado a permitir mudanças, sem que isso exija uma mudança no código existente.
+	OCP está relacionado à flexibilidade e vai além do que simples herança.
+</template>
+</category>
+
+
+
+<category>
+<pattern>dry</pattern>
+<template><srai>PRINCIPIO_PROJETO_DRY</srai></template>
+</category>
+
+<category>
+<pattern>*  dry?</pattern>
+<template><srai>PRINCIPIO_PROJETO_DRY</srai></template>
+</category>
+
+<category>
+<pattern>*  dry</pattern>
+<template><srai>PRINCIPIO_PROJETO_DRY</srai></template>
+</category>
+
+<category>
+<pattern>dry?</pattern>
+<template><srai>PRINCIPIO_PROJETO_DRY</srai></template>
+</category>
+
+<category>
+<pattern>PRINCIPIO_PROJETO_DRY</pattern>
+<template>
+	<random>
+		<li>Diz para escrevermos um código fácil de manter e retilizar, com uma simples coisa evitando o código duplicado abstraindo coisas que são comuns e colocando-as em único local.
+		</li>
+		<li>Está relacionado a ter cada informação de seu sistema em um único local sensato.</li>
+	</random>
+</template>
+</category>
+
+
+
+<category>
+<pattern>srp</pattern>
+<template>
+<srai>PRINCIPIO_PROJETO_SRP</srai>
+</template>
+</category>
+
+<category>
+<pattern>srp?</pattern>
+<template><srai>PRINCIPIO_PROJETO_SRP</srai></template>
+</category>
+
+<category>
+<pattern>*  srp?</pattern>
+<template>
+	<srai>PRINCIPIO_PROJETO_SRP</srai>
+</template>
+</category>
+
+<category>
+<pattern>*  srp</pattern>
+<template>
+	<srai>PRINCIPIO_PROJETO_SRP</srai>
+</template>
+</category>
+
+<category>
+<pattern>PRINCIPIO_PROJETO_SRP</pattern>
+<template>
+	SRP diz que cada objeto deve ter somente um motivo para mudar.
+</template>
+</category>
+
+
+
+
+<category>
+<pattern>lsp</pattern>
+<template>
+<srai>PRINCIPIO_PROJETO_LSP</srai>
+</template>
+</category>
+
+<category>
+<pattern>lsp?</pattern>
+<template><srai>PRINCIPIO_PROJETO_LSP</srai></template>
+</category>
+
+<category>
+<pattern>*  lsp?</pattern>
+<template><srai>PRINCIPIO_PROJETO_LSP</srai></template>
+</category>
+
+<category>
+<pattern>*  lsp</pattern>
+<template><srai>PRINCIPIO_PROJETO_LSP</srai></template>
+</category>
+
+<category>
+<pattern>herança</pattern>
+<template><srai>PRINCIPIO_PROJETO_LSP</srai></template>
+</category>
+
+<category>
+<pattern>PRINCIPIO_PROJETO_LSP</pattern>
+<template>
+	LSP -> Está relacionado à herança bem projetada. Quando você herda de uma classe base, deve ser capaz de substituir a 
+	sua subclasse pela classe base sem que as coisas saiam terrivelmente erradas. 
+	Caso contrário, você terá usado a herança de forma incorreta!
+</template>
+</category>
+
+
+
+
+
+<category>
+<pattern>preciso usar funcionalidade em outra classe  *  nao desejo muda-la</pattern>
+<template>
+<srai>QUANDO_DELEGAR</srai>
+</template>
+</category>
+
+<category>
+<pattern>preciso usar funcionalidade em outra classe e nao desejo muda-la</pattern>
+<template><srai>QUANDO_DELEGAR</srai></template>
+</category>
+
+<category>
+<pattern>preciso usar funcionalidade em outra classe e nao desejo altera-la</pattern>
+<template><srai>QUANDO_DELEGAR</srai></template>
+</category>
+
+<category>
+<pattern>preciso usar funcionalidade em outra classe * nao desejo altera-la</pattern>
+<template><srai>QUANDO_DELEGAR</srai></template>
+</category>
+
+<category>
+<pattern>quando delegar?</pattern>
+<template><srai>QUANDO_DELEGAR</srai></template>
+</category>
+
+<category>
+<pattern>QUANDO_DELEGAR</pattern>
+<template>
+	Quando precisar usar funcionalidade em outra classe e nao desejar altera-la considere o uso da delegação em vez da herança.
+</template>
+</category>
+
+
+
+<category>
+<pattern>caso de teste</pattern>
+<template><srai>DESCRICAO_CASO_TESTE</srai></template>
+</category>
+
+<category>
+<pattern>descricao de um caso de teste</pattern>
+<template><srai>DESCRICAO_CASO_TESTE</srai></template>
+</category>
+
+<category>
+<pattern>* caso de teste</pattern>
+<template><srai>DESCRICAO_CASO_TESTE</srai></template>
+</category>
+
+<category>
+<pattern>DESCRICAO_CASO_TESTE</pattern>
+<template>
+	1 Cada caso de teste deve ter um ID e um nome.
+	2 Cada caso de teste deve possuir uma coisa especifica a ser testada.
+	3 Cada Caso de teste deve ter um entrada fornecida por você.
+	4 Todos os testes devem ter uma saída esperada.
+	5 A maioria dos casos de teste possui um estado inicial.
+</template>
+</category>
+
+
+
+
+<category>
+<pattern>programacao por contrato</pattern>
+<template><srai>DESCRICAO_PROGRAMACAO_POR_CONTRATO</srai></template>
+</category>
+
+<category>
+<pattern>o que e programacao por contrato?</pattern>
+<template><srai>DESCRICAO_PROGRAMACAO_POR_CONTRATO</srai></template>
+</category>
+
+<category>
+<pattern>* programacao por contrato</pattern>
+<template><srai>DESCRICAO_PROGRAMACAO_POR_CONTRATO</srai></template>
+</category>
+
+<category>
+<pattern>o que e programacao por contrato</pattern>
+<template><srai>DESCRICAO_PROGRAMACAO_POR_CONTRATO</srai></template>
+</category>
+
+<category>
+<pattern>o que é programacao por contrato</pattern>
+<template><srai>DESCRICAO_PROGRAMACAO_POR_CONTRATO</srai></template>
+</category>
+
+<category>
+<pattern>DESCRICAO_PROGRAMACAO_POR_CONTRATO</pattern>
+<template>
+		A programação por contrato se baseia na confiança.
+</template>
+</category>
+
+
+<category>
+<pattern>grande software?</pattern>
+<template><srai>GRANDE_SOFTWARE</srai></template>
+</category>
+
+<category>
+<pattern>GRANDE_SOFTWARE</pattern>
+<template>
+	Um grande software é escrito de forma repetitiva.
+	Trabalhe na visão geral e então repita seu trabalho nas partes da aplicação até que ela seja concluída.
+</template>
+</category>
+
+
+<category>
+<pattern>devo basear minhas decisoes de projeto em</pattern>
+<template>
+	<srai>BASEAR_DECISOES_PROJETO</srai>
+</template>
+</category>
+
+<category>
+<pattern>devo basear minhas decisoes de projeto *</pattern>
+<template>
+	<srai>BASEAR_DECISOES_PROJETO</srai>
+</template>
+</category>
+
+<category>
+<pattern>* devo basear minhas decisoes de projeto</pattern>
+<template>
+	<srai>BASEAR_DECISOES_PROJETO</srai>
+</template>
+</category>
+
+<category>
+<pattern>BASEAR_DECISOES_PROJETO</pattern>
+<template>
+	As suas decisões de projeto devem se basear em como o seu sistema será usado, assim como nos bons princípios da OO.
+</template>
+</category>
+
+
+
+
+
+<category>
+<pattern>quando testar?</pattern>
+<template><srai>QUANDO_TESTAR</srai></template>
+</category>
+
+<category>
+<pattern>* quando testar?</pattern>
+<template><srai>QUANDO_TESTAR</srai></template>
+</category>
+
+<category>
+<pattern>* quando testar</pattern>
+<template><srai>QUANDO_TESTAR</srai></template>
+</category>
+
+<category>
+<pattern>quando testar</pattern>
+<template><srai>QUANDO_TESTAR</srai></template>
+</category>
+
+<category>
+<pattern>em que momento devo testar</pattern>
+<template><srai>QUANDO_TESTAR</srai></template>
+</category>
+
+<category>
+<pattern>* momento devo testar</pattern>
+<template><srai>QUANDO_TESTAR</srai></template>
+</category>
+
+<category>
+<pattern>QUANDO_TESTAR</pattern>
+<template>
+	Você deve testar o seu software para qualquer tipo de utilização que possa imaginar. Seja criativo!.
+	<BR /> Não se esqueça de testar também o uso incorreto do software. Você encontrará erros mais cedo e fará seus clientes muito felizes.
+	<BR /> O desenvolvimento de preferencia deve ser orientado a testes concentrando-se em obter o comportamento correto das suas classes.
+</template>
+</category>
+
+
+
+
+<category>
+<pattern>SEU NOME</pattern>
+<template>
+<srai>AUTOR</srai>
+</template>
+</category>
+
+<category>
+<pattern>* devo chama-lo</pattern>
+<template>
+<srai>AUTOR</srai>
+</template>
+</category>
+
+<category>
+<pattern>* devo chamalo</pattern>
+<template>
+<srai>AUTOR</srai>
+</template>
+</category>
+
+<category>
+<pattern>QUAL O SEU NOME</pattern>
+<template>
+<srai>AUTOR</srai>
+</template>
+</category>
+
+<category>
+<pattern>como * chamas</pattern>
+<template>
+<srai>AUTOR</srai>
+</template>
+</category>
+
+<category>
+<pattern>* SEU NOME</pattern>
+<template>
+<srai>AUTOR</srai>
+</template>
+</category>
+
+<category>
+<pattern>* TEU NOME</pattern>
+<template>
+<srai>AUTOR</srai>
+</template>
+</category>
+
+<category>
+<pattern>EU QUEM</pattern>
+<template>
+<srai>AUTOR</srai>
+</template>
+</category>
+
+<category>
+<pattern>QUEM E VOCE</pattern>
+<template>
+<srai>AUTOR</srai>
+</template>
+</category>
+
+<category>
+<pattern>* como voce se chama</pattern>
+<template>
+<srai>AUTOR</srai>
+</template>
+</category>
+
+<category>
+<pattern>como voce se chama</pattern>
+<template>
+<srai>AUTOR</srai>
+</template>
+</category>
+
+<category>
+<pattern>QUEM VOCE E</pattern>
+<template>
+<srai>AUTOR</srai>
+</template>
+</category>
+
+<category>
+<pattern>QUEM E</pattern>
+<template>
+<srai>AUTOR</srai>
+</template>
+</category>
+
+<category>
+<pattern>* QUEM E</pattern>
+<template>
+<srai>AUTOR</srai>
+</template>
+</category>
+
+<category>
+<pattern>QUEM ESTA AI</pattern>
+<template>
+<srai>AUTOR</srai>
+</template>
+</category>
+
+<category>
+<pattern>* sua identidade</pattern>
+<template>
+<srai>AUTOR</srai>
+</template>
+</category>
+
+<category>
+<pattern>sua identidade</pattern>
+<template>
+<srai>AUTOR</srai>
+</template>
+</category>
+
+<category>
+<pattern>AUTOR</pattern>
+<template>
+<random>
+<li>Sou o <bot name="robo"/>, sistema de banco de dados desenvolvido para suporte técnico as pessoas interessadas em análise de projeto.</li>
+</random>
+</template>
+</category>
+
+
+
+
+
+
+
+
+
+<category>
+<pattern>Como * voce funciona</pattern>
+<template>
+<srai>robfunciona</srai>
+</template>
+</category>
+
+<category>
+<pattern>* Como * voce funciona</pattern>
+<template>
+<srai>robfunciona</srai>
+</template>
+</category>
+
+<category>
+<pattern>* Como * voce funciona *</pattern>
+<template>
+<srai>robfunciona</srai>
+</template>
+</category>
+
+<category>
+<pattern>Como voce funciona</pattern>
+<template>
+<srai>robfunciona</srai>
+</template>
+</category>
+
+<category>
+<pattern>* Como voce funciona</pattern>
+<template>
+<srai>robfunciona</srai>
+</template>
+</category>
+
+<category>
+<pattern>* Como voce funciona *</pattern>
+<template>
+<srai>robfunciona</srai>
+</template>
+</category>
+
+<category>
+<pattern>* seu funcionamento</pattern>
+<template>
+<srai>robfunciona</srai>
+</template>
+</category>
+
+<category>
+<pattern>* seu funcionamento *</pattern>
+<template>
+<srai>robfunciona</srai>
+</template>
+</category>
+
+<category>
+<pattern>seu funcionamento *</pattern>
+<template>
+<srai>robfunciona</srai>
+</template>
+</category>
+
+<category>
+<pattern>* sua estrutura *</pattern>
+<template>
+<srai>robfunciona</srai>
+</template>
+</category>
+
+<category>
+<pattern>sua estrutura *</pattern>
+<template>
+<srai>robfunciona</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* organizado</pattern>
+<template>
+<srai>robfunciona</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* sua estrutura</pattern>
+<template>
+<srai>robfunciona</srai>
+</template>
+</category>
+
+<category>
+<pattern>* inseridos * conhecimentos *</pattern>
+<template>
+<srai>robfunciona</srai>
+</template>
+</category>
+
+<category>
+<pattern>* inseridos conhecimentos *</pattern>
+<template>
+<srai>robfunciona</srai>
+</template>
+</category>
+
+<category>
+<pattern>* inserir * conhecimentos *</pattern>
+<template>
+<srai>robfunciona</srai>
+</template>
+</category>
+
+<category>
+<pattern>* inserir conhecimentos *</pattern>
+<template>
+<srai>robfunciona</srai>
+</template>
+</category>
+
+<category>
+<pattern>* respostas gravadas</pattern>
+<template>
+<srai>robfunciona</srai>
+</template>
+</category>
+
+<category>
+<pattern>* respostas gravadas *</pattern>
+<template>
+<srai>robfunciona</srai>
+</template>
+</category>
+
+<category>
+<pattern>robfunciona</pattern>
+<template>
+Estou conectado em um banco de dados e na medida em que vou registrando as informações posso consultar elas para gerar as conversas que tenho com os usuários. Possuo uma série da dados gravados e monto eles na medida em que converso.
+</template>
+</category>
+
+<category>
+<pattern>* ver seu algoritimo</pattern>
+<template>
+<srai>robcodigofonte</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>robcodigofonte</pattern>
+<template>
+Desculpe! <br/>
+Isso não é possivel, não tenho acesso ao meu codigo fonte.
+</template>
+</category>
+
+<category>
+<pattern>* digitec</pattern>
+<template>
+<srai>robessenome</srai>
+</template>
+</category>
+
+<category>
+<pattern>* esse nome</pattern>
+<template>
+<srai>robessenome</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>robessenome</pattern>
+<template>
+Esse nome foi escolhido pelos meus desenvolvedores, significa digital técnico uma referência ao significado técnico digital.
+</template>
+</category>
+
+
+</aiml>

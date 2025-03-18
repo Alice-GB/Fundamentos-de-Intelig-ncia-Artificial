@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+	<!-- insert your AIML categories here -->
+	<category>
+		<pattern>Disco Rigido</pattern>
+		<template>
+			<srai>termohd</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>Disco Rigido</pattern>
+		<template>
+			<srai>termohd</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>hdd</pattern>
+		<template>
+			<srai>termohd</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>hds</pattern>
+		<template>
+			<srai>termohd</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>hard disk</pattern>
+		<template>
+			<srai>termohd</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>hard disk driver</pattern>
+		<template>
+			<srai>termohd</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>hardware disk</pattern>
+		<template>
+			<srai>termohd</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>disco duro</pattern>
+		<template>
+			<srai>termohd</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>hardware disk driver</pattern>
+		<template>
+			<srai>termohd</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>winchester</pattern>
+		<template>
+			<srai>termohd</srai>
+		</template>
+	</category>
+	<!-- asterisco palav -->
+	<category>
+		<pattern>* Disco Rigido</pattern>
+		<template>
+			<srai>termohd</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>* Disco Rigido</pattern>
+		<template>
+			<srai>termohd</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>* hdd</pattern>
+		<template>
+			<srai>termohd</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>* hds</pattern>
+		<template>
+			<srai>termohd</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>* hard disk</pattern>
+		<template>
+			<srai>termohd</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>* hard disk driver</pattern>
+		<template>
+			<srai>termohd</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>* hardware disk</pattern>
+		<template>
+			<srai>termohd</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>* disco duro</pattern>
+		<template>
+			<srai>termohd</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>* hardware disk driver</pattern>
+		<template>
+			<srai>termohd</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>* winchester</pattern>
+		<template>
+			<srai>termohd</srai>
+		</template>
+	</category>
+	<!--  palav  asterisco -->
+	<category>
+		<pattern>Disco Rigido *</pattern>
+		<template>
+			<srai>termohd</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>Disco Rigido *</pattern>
+		<template>
+			<srai>termohd</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>hdd *</pattern>
+		<template>
+			<srai>termohd</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>hds *</pattern>
+		<template>
+			<srai>termohd</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>hard disk *</pattern>
+		<template>
+			<srai>termohd</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>hard disk driver *</pattern>
+		<template>
+			<srai>termohd</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>hardware disk* </pattern>
+		<template>
+			<srai>termohd</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>disco duro *</pattern>
+		<template>
+			<srai>termohd</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>hardware disk driver *</pattern>
+		<template>
+			<srai>termohd</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>winchester *</pattern>
+		<template>
+			<srai>termohd</srai>
+		</template>
+	</category>
+	<!--  asterisco palav  asterisco -->
+	<category>
+		<pattern>* Disco Rigido *</pattern>
+		<template>
+			<srai>termohd</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>* Disco Rigido *</pattern>
+		<template>
+			<srai>termohd</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>* hdd *</pattern>
+		<template>
+			<srai>termohd</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>* hds *</pattern>
+		<template>
+			<srai>termohd</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>* hard disk *</pattern>
+		<template>
+			<srai>termohd</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>* hard disk driver *</pattern>
+		<template>
+			<srai>termohd</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>* hardware disk *</pattern>
+		<template>
+			<srai>termohd</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>* disco duro *</pattern>
+		<template>
+			<srai>termohd</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>* hardware disk driver *</pattern>
+		<template>
+			<srai>termohd</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>* winchester *</pattern>
+		<template>
+			<srai>termohd</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>termohd</pattern>
+		<template>
+			<random>
+				<li>Em minha base de dados existe o termo <b>HD</b> como referência aos termos: disco rigido
+hard disk, hdd, hard disk driver, hardware disk, disco duro, hardware disk driver e winchester. Se você está buscando informações sobre Disco Rigido use sempre o termo HD, somente assim poderei entender sua solicitação.</li>
+			</random>
+		</template>
+	</category>
+</aiml>

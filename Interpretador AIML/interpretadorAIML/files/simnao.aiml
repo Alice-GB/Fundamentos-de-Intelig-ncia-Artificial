@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+<category>
+<pattern>SIM</pattern>
+<template>
+<srai>SIMCONC</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>SIM *</pattern>
+<template>
+<srai>SIMCONC</srai>
+</template>
+</category>
+
+<category>
+<pattern>* SIM</pattern>
+<template>
+<srai>SIMCONC</srai>
+</template>
+</category>
+
+<category>
+<pattern>* notei</pattern>
+<template>
+<srai>SIMCONC</srai>
+</template>
+</category>
+
+<category>
+<pattern>notei</pattern>
+<template>
+<srai>SIMCONC</srai>
+</template>
+</category>
+
+
+
+
+<category>
+<pattern>NAO</pattern>
+<template>
+<srai>SIMCONC</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>NAO</pattern>
+<template>
+<srai>SIMCONC</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* NAO</pattern>
+<template>
+<srai>SIMCONC</srai>
+</template>
+</category>
+
+<category>
+<pattern>SIMCONC</pattern>
+<template>
+<random>
+<li>Certo!</li>
+<li>Ok.</li>
+<li>Positivo.</li>
+<li>Compreendido</li>
+<li>Entendi isso ai.</li>
+</random>
+</template>
+</category>
+
+
+<category>
+<pattern>NAO E</pattern>
+<template>
+<srai>NAODIZ</srai>
+</template>
+</category>
+
+<category>
+<pattern>NAO acredito</pattern>
+<template>
+<srai>NAODIZ</srai>
+</template>
+</category>
+
+<category>
+<pattern>NAO acredito *</pattern>
+<template>
+<srai>NAODIZ</srai>
+</template>
+</category>
+
+<category>
+<pattern>* NAO acredito</pattern>
+<template>
+<srai>NAODIZ</srai>
+</template>
+</category>
+
+<category>
+<pattern>* NAO acredito *</pattern>
+<template>
+<srai>NAODIZ</srai>
+</template>
+</category>
+
+<category>
+<pattern>NAO concordo</pattern>
+<template>
+<srai>NAODIZ</srai>
+</template>
+</category>
+
+<category>
+<pattern>NAO concordo *</pattern>
+<template>
+<srai>NAODIZ</srai>
+</template>
+</category>
+
+<category>
+<pattern>* NAO concordo</pattern>
+<template>
+<srai>NAODIZ</srai>
+</template>
+</category>
+
+<category>
+<pattern>* NAO concordo *</pattern>
+<template>
+<srai>NAODIZ</srai>
+</template>
+</category>
+
+<category>
+<pattern>NAO aceito</pattern>
+<template>
+<srai>NAODIZ</srai>
+</template>
+</category>
+
+<category>
+<pattern>NAO aceito *</pattern>
+<template>
+<srai>NAODIZ</srai>
+</template>
+</category>
+
+<category>
+<pattern>* NAO aceito</pattern>
+<template>
+<srai>NAODIZ</srai>
+</template>
+</category>
+
+<category>
+<pattern>* NAO aceito *</pattern>
+<template>
+<srai>NAODIZ</srai>
+</template>
+</category>
+
+<category>
+<pattern>* NAO * aceitar *</pattern>
+<template>
+<srai>NAODIZ</srai>
+</template>
+</category>
+
+<category>
+<pattern>* NAO * aceitar</pattern>
+<template>
+<srai>NAODIZ</srai>
+</template>
+</category>
+
+<category>
+<pattern>NAO * aceitar</pattern>
+<template>
+<srai>NAODIZ</srai>
+</template>
+</category>
+
+<category>
+<pattern>NAO * aceitar *</pattern>
+<template>
+<srai>NAODIZ</srai>
+</template>
+</category>
+
+<category>
+<pattern>NAO E</pattern>
+<template>
+<srai>NAODIZ</srai>
+</template>
+</category>
+
+<category>
+<pattern>* NAO E</pattern>
+<template>
+<srai>NAODIZ</srai>
+</template>
+</category>
+
+<category>
+<pattern>* NAO E *</pattern>
+<template>
+<srai>NAODIZ</srai>
+</template>
+</category>
+
+<category>
+<pattern>NAODIZ</pattern>
+<template>
+<random>
+<li>Humm.. não sei não, acho que você está errado.</li>
+<li>Desculpe, mas não concordo.</li>
+<li>Você pode não concorda, mas esta errado.</li>
+<li>Tudo pode acontecer neste mundo, mas a verdade é que você está enganado </li>
+<li>Entedi sim, você é que não sabe. </li>
+<li>Se você diz.. por mim tudo bem. </li>
+</random>
+</template>
+</category>
+
+
+
+
+
+
+
+
+<category>
+<pattern>nem eu</pattern>
+<template>
+Humm.. Não sei não.
+</template>
+</category>
+
+
+
+
+<category>
+<pattern>* nao entende nada</pattern>
+<template>
+<srai>parece</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* nao entende nada *</pattern>
+<template>
+<srai>parece</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>ate parece</pattern>
+<template>
+<srai>parece</srai>
+</template>
+</category>
+
+<category>
+<pattern>parece</pattern>
+<template>
+<random>
+<li>acredite!</li>
+<li>Você é meio incrédulo, não sei não...</li>
+<li>que coisa mais incrédula. To dizendo..</li>
+<li>Tudo pode acontecer neste mundo, mas você não sei não.. </li>
+</random>
+</template>
+</category>
+
+
+<category>
+<pattern>nao sei o que</pattern>
+<template>
+<srai>naorece</srai>
+</template>
+</category>
+
+<category>
+<pattern>nao sabe o que</pattern>
+<template>
+<srai>naorece</srai>
+</template>
+</category>
+
+<category>
+<pattern>acreditar *</pattern>
+<template>
+<srai>naorece</srai>
+</template>
+</category>
+
+<category>
+<pattern>naorece</pattern>
+<template>
+<random>
+<li>Se você não sabe um dia aprende!</li>
+<li>Não estressa um dia você saberá.</li>
+<li>Fique tranquilo outra hora te conto</li>
+<li>Tá bom, só você não sabe </li>
+<li>Ok, Conta outra</li>
+<li>Você é meio lentinho sabia.</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>o que</pattern>
+<template>
+O que! o que?  
+</template>
+</category>
+
+<category>
+<pattern>* o que</pattern>
+<template>
+<srai>naorece</srai>    
+</template>
+</category>
+
+
+<category>
+<pattern>E dai</pattern>
+<template>
+E dai! o que?  
+</template>
+</category>
+
+
+<category>
+<pattern>e dai *</pattern>
+<template>
+<srai>naorece</srai>  
+</template>
+</category>
+
+
+
+
+
+
+<category>
+<pattern>* errado</pattern>
+<template>
+<srai>naorece</srai>  
+</template>
+</category>
+
+
+
+<category>
+<pattern>errado</pattern>
+<template>
+<random>
+<li>Se você é errado procure andar correto!</li>
+<li>Você é meio indeciso, Já vi tudo.</li>
+<li>Fique tranquilo outra hora você melhora</li>
+<li>Tá bom, um dia você vai estar certo.</li>
+<li>Ok, Você pode ser errado mais é meu amigo</li>
+<li>Você é meio incorreto, eu sabia.</li>
+</random>
+</template>
+</category>
+
+
+
+
+<category>
+<pattern>como assim</pattern>
+<template>
+<srai>negativa</srai>  
+</template>
+</category>
+
+
+<category>
+<pattern>como assim  *</pattern>
+<template>
+<srai>negativa</srai>  
+</template>
+</category>
+
+
+
+<category>
+<pattern>por que  *</pattern>
+<template>
+<srai>negativa</srai>  
+</template>
+</category>
+
+
+<category>
+<pattern>porque</pattern>
+<template>
+<srai>negativa</srai>  
+</template>
+</category>
+
+
+<category>
+<pattern>por que</pattern>
+<template>
+<srai>negativa</srai>  
+</template>
+</category>
+
+
+<category>
+<pattern>porque  *</pattern>
+<template>
+<srai>negativa</srai>  
+</template>
+</category>
+
+<category>
+<pattern>negativa</pattern>
+<template>
+<random>
+<li>nao! de novo não...</li>
+<li>Não sei se quero debater sobre isso.</li>
+<li>Fique tranquilo outra hora debatemos sobre este assunto.</li>
+<li>Tá bom, um dia eu vou estar contente e ai te conto.</li>
+<li>Ok, Você pode ser meio curioso mas é meu amigo, mesmo assim vamos falar de outra coisa.</li>
+<li>Você é pouco perceptivo, não é?</li>
+</random>
+</template>
+</category>
+
+
+
+
+
+</aiml>

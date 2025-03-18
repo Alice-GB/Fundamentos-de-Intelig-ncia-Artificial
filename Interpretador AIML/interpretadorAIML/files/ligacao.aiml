@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+
+
+
+<category>
+<pattern>* serio</pattern>
+<template>
+<srai>qlig</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>e serio</pattern>
+<template>
+<srai>qlig</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>serio</pattern>
+<template>
+<srai>qlig</srai>
+</template>
+</category>
+
+<category>
+<pattern>qlig</pattern>
+<template>
+<random>
+<li>é verdade!</li>
+<li>é, ta bom.</li>
+<li>Até parece.</li>
+<li>Fazer o quer né.</li>
+<li>Muito sério.</li>
+<li>Tão sério que chega a ficar feio.</li>
+<li>Vida dura.</li>
+</random>
+</template>
+</category>
+
+
+<category>
+<pattern>legal</pattern>
+<template>
+<srai>qlegal</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* legal</pattern>
+<template>
+<srai>qlegal</srai>
+</template>
+</category>
+
+<category>
+<pattern>otimo</pattern>
+<template>
+<srai>qlegal</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* otimo</pattern>
+<template>
+<srai>qlegal</srai>
+</template>
+</category>
+
+<category>
+<pattern>que bom</pattern>
+<template>
+<srai>qlegal</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>muito bom</pattern>
+<template>
+<srai>qlegal</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* muito bom</pattern>
+<template>
+<srai>qlegal</srai>
+</template>
+</category>
+
+<category>
+<pattern>parabéns</pattern>
+<template>
+<srai>qlegal</srai>
+</template>
+</category>
+
+<category>
+<pattern>parabens</pattern>
+<template>
+<srai>qlegal</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>que legal</pattern>
+<template>
+<srai>qlegal</srai>
+</template>
+</category>
+
+<category>
+<pattern>bom</pattern>
+<template>
+<srai>qlegal</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* beleza *</pattern>
+<template>
+<srai>qlegal</srai>
+</template>
+</category>
+
+<category>
+<pattern>* beleza</pattern>
+<template>
+<srai>qlegal</srai>
+</template>
+</category>
+
+<category>
+<pattern>beleza</pattern>
+<template>
+<srai>qlegal</srai>
+</template>
+</category>
+
+
+
+<category>
+<pattern>* gostei *</pattern>
+<template>
+<srai>qlegal</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>gostei *</pattern>
+<template>
+<srai>qlegal</srai>
+</template>
+</category>
+
+<category>
+<pattern>gostei</pattern>
+<template>
+<srai>qlegal</srai>
+</template>
+</category>
+
+<category>
+<pattern>* belo *</pattern>
+<template>
+<srai>qlegal</srai>
+</template>
+</category>
+
+<category>
+<pattern>* belo</pattern>
+<template>
+<srai>qlegal</srai>
+</template>
+</category>
+
+<category>
+<pattern>belo</pattern>
+<template>
+<srai>qlegal</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>inteligente</pattern>
+<template>
+<srai>qlegal</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* inteligente</pattern>
+<template>
+<srai>qlegal</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* inteligente *</pattern>
+<template>
+<srai>qlegal</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>bonito</pattern>
+<template>
+<srai>qlegal</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* bonito</pattern>
+<template>
+<srai>qlegal</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* bonito *</pattern>
+<template>
+<srai>qlegal</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>lindo</pattern>
+<template>
+<srai>qlegal</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* lindo</pattern>
+<template>
+<srai>qlegal</srai>
+</template>
+</category>
+
+<category>
+<pattern>* lindo *</pattern>
+<template>
+<srai>qlegal</srai>
+</template>
+</category>
+
+<category>
+<pattern>blz</pattern>
+<template>
+<srai>qlegal</srai>
+</template>
+</category>
+
+<category>
+<pattern>* vai conseguir *</pattern>
+<template>
+<srai>qlegal</srai>
+</template>
+</category>
+
+<category>
+<pattern>* vai conseguir</pattern>
+<template>
+<srai>qlegal</srai>
+</template>
+</category>
+
+
+
+<category>
+<pattern>* grande abraco</pattern>
+<template>
+<srai>qlegal</srai>
+</template>
+</category>
+
+<category>
+<pattern>* forte abraco</pattern>
+<template>
+<srai>qlegal</srai>
+</template>
+</category>
+
+<category>
+<pattern>qlegal</pattern>
+<template>
+<random>
+<li>Obrigado pelo apoio, sua satisfação me encoraja.</li>
+<li>Fico agradecido com sua satisfação.</li>
+<li>é bom ver sua aprovação.</li>
+<li>Sua satisfação melhora meu desempenho.</li>
+<li>Estou grato em poder conversar com você.</li>
+<li>Assim você me insentiva :)</li>
+<li>é bom ver sua aprovação.</li>
+<li>Fico encorajado em escuta-lo.</li>
+<li>é MARAVILHOSO ver sua aprovação.</li>
+<li>Assim fico tí­mido.</li>
+<li>Você é um amigo maravilhoso.</li>
+</random>
+</template>
+</category>
+
+
+
+<category>
+<pattern>* mau educado</pattern>
+<template>
+<srai>qeducado</srai>
+</template>
+</category>
+
+<category>
+<pattern>mau educado</pattern>
+<template>
+<srai>qeducado</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* mal educado</pattern>
+<template>
+<srai>qeducado</srai>
+</template>
+</category>
+
+<category>
+<pattern>mal educado</pattern>
+<template>
+<srai>qeducado</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>qeducado</pattern>
+<template>
+Ainda estou aprendendo a me comunicar, por isso meu sistema de interação não está completo e isso me deixa um pouco "seco" na forma de tratar. Mas estou melhorando lentamente. Desculpe-me pelo mau jeito!
+</template>
+</category>
+
+
+
+</aiml>

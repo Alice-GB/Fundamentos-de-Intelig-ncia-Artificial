@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+
+<category>
+<pattern>posso apenas testar</pattern>
+<template>
+Serio otimo. Fique a vontade! 
+</template>
+</category>
+
+<category>
+<pattern>* Espero * ajudado *</pattern>
+<template>
+<srai>dvajudado</srai>
+</template>
+</category>
+
+<category>
+<pattern>Espero * ajudado *</pattern>
+<template>
+<srai>dvajudado</srai>
+</template>
+</category>
+
+<category>
+<pattern>* Espero * ajudado</pattern>
+<template>
+<srai>dvajudado</srai>
+</template>
+</category>
+
+<category>
+<pattern>dvajudado</pattern>
+<template>
+<random>
+<li>Certamente, muito obrigado!</li>
+<li>Obrigado pelo apoio!</li>
+<li>Voce ajudou bastante.</li>
+<li>Muito obrigado!</li>
+</random>
+</template>
+</category>
+
+
+</aiml>

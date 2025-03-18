@@ -1,0 +1,15 @@
+D:\Trabalhos da faculdade\Prova2\obj\Debug\Prova2.csproj.AssemblyReference.cache
+D:\Trabalhos da faculdade\Prova2\obj\Debug\Prova2.Form1.resources
+D:\Trabalhos da faculdade\Prova2\obj\Debug\Prova2.Properties.Resources.resources
+D:\Trabalhos da faculdade\Prova2\obj\Debug\Prova2.csproj.GenerateResource.cache
+D:\Trabalhos da faculdade\Prova2\obj\Debug\Prova2.csproj.CoreCompileInputs.cache
+E:\Trabalhos da faculdade\Prova2\bin\Debug\Prova2.exe.config
+E:\Trabalhos da faculdade\Prova2\bin\Debug\Prova2.exe
+E:\Trabalhos da faculdade\Prova2\bin\Debug\Prova2.pdb
+E:\Trabalhos da faculdade\Prova2\obj\Debug\Prova2.csproj.AssemblyReference.cache
+E:\Trabalhos da faculdade\Prova2\obj\Debug\Prova2.Form1.resources
+E:\Trabalhos da faculdade\Prova2\obj\Debug\Prova2.Properties.Resources.resources
+E:\Trabalhos da faculdade\Prova2\obj\Debug\Prova2.csproj.GenerateResource.cache
+E:\Trabalhos da faculdade\Prova2\obj\Debug\Prova2.csproj.CoreCompileInputs.cache
+E:\Trabalhos da faculdade\Prova2\obj\Debug\Prova2.exe
+E:\Trabalhos da faculdade\Prova2\obj\Debug\Prova2.pdb

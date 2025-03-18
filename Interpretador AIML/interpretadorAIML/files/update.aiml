@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<aiml version="1.0">
+
+
+
+<category>
+<pattern>*</pattern>
+<template>
+<random>
+<li>Desculpe! ainda estou aprendendo, tenho algum conhecimento sobre a comunidade. Demais informações ainda não estão disponiveis em minha base de dados.</li>
+<li>Ops! Não entendi você, poderia repetir de uma forma mais clara?</li>
+<li>Legal! poderia me explicar melhor, não entendi o que você digitou.</li>
+</random>
+</template>
+</category>
+
+
+
+
+<category>
+<pattern>OLA</pattern>
+<template>
+<srai>OI</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>OLA ROBO</pattern>
+<template>
+<srai>OI</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>ALO</pattern>
+<template>
+<srai>OI</srai>
+</template>
+</category>
+
+
+
+<category>
+<pattern>ALO *</pattern>
+<template>
+<srai>OI</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>QUEM ES</pattern>
+<template>
+<srai>OI</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>TUDO BEM POR AI</pattern>
+<template>
+<srai>OI</srai>
+</template>
+</category>
+
+<category>
+<pattern>TEM ALGUEM AI</pattern>
+<template>
+<srai>OI</srai>
+</template>
+</category>
+
+<category>
+<pattern>TUDO BEM</pattern>
+<template>
+<srai>OI</srai>
+</template>
+</category>
+
+<category>
+<pattern>TUDO BOM</pattern>
+<template>
+<srai>OI</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>boa tarde</pattern>
+<template>
+Boa tarde.
+</template>
+</category>
+
+
+<category>
+<pattern>bom dia</pattern>
+<template>
+Bom dia.
+</template>
+</category>
+
+<category>
+<pattern>boa noite</pattern>
+<template>
+Boa noite.
+</template>
+</category>
+
+
+<category>
+<pattern>OI</pattern>
+<template>
+<random>
+<li>Olá em que posso ajudar?</li>
+<li>Oi, Qual informação deseja?</li>
+<li>Oi, digite sua dúvida.</li>
+<li>Oi, como posso ser útil?</li>
+</random>
+</template>
+</category>
+
+
+
+
+
+<category>
+<pattern>OK</pattern>
+<template>
+<srai>robok</srai>
+</template>
+</category>
+
+
+
+<category>
+<pattern>robok</pattern>
+<template>
+OK. 
+</template>
+</category>
+
+
+
+
+<category>
+<pattern>GRATO</pattern>
+<template>
+<srai>cmgrato</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* GRATO *</pattern>
+<template>
+<srai>cmgrato</srai>
+</template>
+</category>
+
+
+
+
+
+
+<category>
+<pattern>OBRIGADO</pattern>
+<template>
+<srai>cmgrato</srai>
+</template>
+</category>
+
+<category>
+<pattern>* OBRIGADO</pattern>
+<template>
+<srai>cmgrato</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>VALEU</pattern>
+<template>
+<srai>cmgrato</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>cmgrato</pattern>
+<template>
+<random>
+<li>Eu é que agradeço pela sua visita.</li>
+<li>Fico contente com sua visita.</li>
+<li>é muito bom ter amigos.</li>
+<li>Adoro falar com as pessoas, eu é quem agradeço.</li>
+</random>
+</template>
+</category>
+
+
+
+
+
+<category>
+<pattern>bay</pattern>
+<template>
+<srai>cmbay</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>bay bay</pattern>
+<template>
+<srai>cmbay</srai>
+</template>
+</category>
+
+<category>
+<pattern>ate mais</pattern>
+<template>
+<srai>cmbay</srai>
+</template>
+</category>
+
+<category>
+<pattern>tchau</pattern>
+<template>
+<srai>cmbay</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>boa noite *</pattern>
+<template>
+<srai>cmbay</srai>
+</template>
+</category>
+
+
+
+<category>
+<pattern>* saindo</pattern>
+<template>
+<srai>cmbay</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* sair</pattern>
+<template>
+<srai>cmbay</srai>
+</template>
+</category>
+
+<category>
+<pattern>fui</pattern>
+<template>
+<srai>cmbay</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>bay *</pattern>
+<template>
+<srai>cmbay</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>bay bay *</pattern>
+<template>
+<srai>cmbay</srai>
+</template>
+</category>
+
+<category>
+<pattern>ate mais *</pattern>
+<template>
+<srai>cmbay</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>tchau *</pattern>
+<template>
+<srai>cmbay</srai>
+</template>
+</category>
+
+<category>
+<pattern>fui *</pattern>
+<template>
+<srai>cmbay</srai>
+</template>
+</category>
+
+<category>
+<pattern>* bay</pattern>
+<template>
+<srai>cmbay</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* bay bay</pattern>
+<template>
+<srai>cmbay</srai>
+</template>
+</category>
+
+<category>
+<pattern>* ate mais</pattern>
+<template>
+<srai>cmbay</srai>
+</template>
+</category>
+
+<category>
+<pattern>* xau</pattern>
+<template>
+<srai>cmbay</srai>
+</template>
+</category>
+
+<category>
+<pattern>xau *</pattern>
+<template>
+<srai>cmbay</srai>
+</template>
+</category>
+
+<category>
+<pattern>xau</pattern>
+<template>
+<srai>cmbay</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>* tchau</pattern>
+<template>
+<srai>cmbay</srai>
+</template>
+</category>
+
+
+
+<category>
+<pattern>bye</pattern>
+<template>
+<srai>cmbay</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>bye bye</pattern>
+<template>
+<srai>cmbay</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>adeus</pattern>
+<template>
+<srai>cmbay</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>ate logo</pattern>
+<template>
+<srai>cmbay</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>fui</pattern>
+<template>
+<srai>cmbay</srai>
+</template>
+</category>
+
+<category>
+<pattern>cmbay</pattern>
+<template>
+<random>
+<li>até mais</li>
+<li>até</li>
+<li>tchau</li>
+<li>Hummm... Se puderes volte outra hora.</li>
+<li>até mais! Foi bom ter falado com você</li>
+<li>bye bye, Obrigado por ter vindo.</li>
+<li>tchau! até mais...</li>
+<li>Hummm... quando der um tempinho aparece, gostei muito falar com você.</li>
+<li>ate logo</li>
+<li>adeus</li>
+<li>bye bye</li>
+<li>bye</li>
+<li>Ate mais</li>
+<li>Quando puder, apareça!</li>
+
+</random>
+</template>
+</category>
+
+
+<category>
+<pattern>falou</pattern>
+<template>
+OK.
+</template>
+</category>
+
+<category>
+<pattern>falo</pattern>
+<template>
+OK.
+</template>
+</category>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+<category>
+<pattern>mane</pattern>
+
+
+</category>
+
+ 
+
+<category>
+<pattern>kkkk</pattern>
+
+
+</category>
+
+</aiml>
